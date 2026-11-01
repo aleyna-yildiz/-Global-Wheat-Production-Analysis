@@ -1,0 +1,1859 @@
+year,area,crop,element,unit,production_value
+2010,Afghanistan,Wheat,Production,t,4532000.0
+2010,Albania,Wheat,Production,t,294900.0
+2010,Algeria,Wheat,Production,t,2605178.0
+2010,Angola,Wheat,Production,t,4000.0
+2010,Argentina,Wheat,Production,t,15875653.0
+2010,Armenia,Wheat,Production,t,183464.0
+2010,Australia,Wheat,Production,t,27410076.0
+2010,Austria,Wheat,Production,t,1517805.0
+2010,Azerbaijan,Wheat,Production,t,1272340.0
+2010,Bangladesh,Wheat,Production,t,901490.0
+2010,Belarus,Wheat,Production,t,1739110.0
+2010,Belgium,Wheat,Production,t,1849584.0
+2010,Bhutan,Wheat,Production,t,4873.0
+2010,Bolivia (Plurinational State of),Wheat,Production,t,241397.0
+2010,Bosnia and Herzegovina,Wheat,Production,t,145412.0
+2010,Botswana,Wheat,Production,t,0.0
+2010,Brazil,Wheat,Production,t,6171250.0
+2010,Bulgaria,Wheat,Production,t,4094597.0
+2010,Burundi,Wheat,Production,t,9034.0
+2010,Cameroon,Wheat,Production,t,900.0
+2010,Canada,Wheat,Production,t,23299600.0
+2010,Chad,Wheat,Production,t,1698.0
+2010,Chile,Wheat,Production,t,1523921.2
+2010,China,Wheat,Production,t,115186178.0
+2010,Colombia,Wheat,Production,t,15147.0
+2010,Croatia,Wheat,Production,t,681017.0
+2010,Cyprus,Wheat,Production,t,18889.0
+2010,Czechia,Wheat,Production,t,4161553.0
+2010,Democratic People's Republic of Korea,Wheat,Production,t,160000.0
+2010,Democratic Republic of the Congo,Wheat,Production,t,8841.0
+2010,Denmark,Wheat,Production,t,5059900.0
+2010,Ecuador,Wheat,Production,t,7605.0
+2010,Egypt,Wheat,Production,t,7177399.0
+2010,Eritrea,Wheat,Production,t,33000.0
+2010,Estonia,Wheat,Production,t,327600.0
+2010,Eswatini,Wheat,Production,t,450.0
+2010,Ethiopia,Wheat,Production,t,3325620.0
+2010,Finland,Wheat,Production,t,724400.0
+2010,France,Wheat,Production,t,38207431.0
+2010,Georgia,Wheat,Production,t,48400.0
+2010,Germany,Wheat,Production,t,23782955.0
+2010,Greece,Wheat,Production,t,1920669.75
+2010,Guatemala,Wheat,Production,t,1437.89
+2010,Honduras,Wheat,Production,t,1139.61
+2010,Hungary,Wheat,Production,t,3745190.0
+2010,India,Wheat,Production,t,80803600.0
+2010,Iran (Islamic Republic of),Wheat,Production,t,12142987.9
+2010,Iraq,Wheat,Production,t,2748840.0
+2010,Ireland,Wheat,Production,t,669200.0
+2010,Israel,Wheat,Production,t,112324.32
+2010,Italy,Wheat,Production,t,6849858.0
+2010,Japan,Wheat,Production,t,571300.0
+2010,Jordan,Wheat,Production,t,22125.0
+2010,Kazakhstan,Wheat,Production,t,9638400.0
+2010,Kenya,Wheat,Production,t,511994.0
+2010,Kuwait,Wheat,Production,t,162.0
+2010,Kyrgyzstan,Wheat,Production,t,813300.0
+2010,Latvia,Wheat,Production,t,989400.0
+2010,Lebanon,Wheat,Production,t,83000.0
+2010,Lesotho,Wheat,Production,t,20119.0
+2010,Libya,Wheat,Production,t,132239.07
+2010,Lithuania,Wheat,Production,t,1710400.0
+2010,Luxembourg,Wheat,Production,t,83474.0
+2010,Madagascar,Wheat,Production,t,8694.39
+2010,Malawi,Wheat,Production,t,2341.0
+2010,Mali,Wheat,Production,t,10051.0
+2010,Malta,Wheat,Production,t,13038.07
+2010,Mauritania,Wheat,Production,t,2413.0
+2010,Mexico,Wheat,Production,t,3676707.0
+2010,Mongolia,Wheat,Production,t,345458.0
+2010,Montenegro,Wheat,Production,t,946.0
+2010,Morocco,Wheat,Production,t,4876140.0
+2010,Mozambique,Wheat,Production,t,17870.0
+2010,Myanmar,Wheat,Production,t,181000.0
+2010,Namibia,Wheat,Production,t,13397.33
+2010,Nepal,Wheat,Production,t,1556539.0
+2010,Netherlands (Kingdom of the),Wheat,Production,t,1369553.0
+2010,New Caledonia,Wheat,Production,t,0.0
+2010,New Zealand,Wheat,Production,t,444890.0
+2010,Niger,Wheat,Production,t,5165.27
+2010,Nigeria,Wheat,Production,t,110440.62
+2010,North Macedonia,Wheat,Production,t,243137.0
+2010,Norway,Wheat,Production,t,331400.0
+2010,Oman,Wheat,Production,t,2286.0
+2010,Pakistan,Wheat,Production,t,23310800.0
+2010,Palestine,Wheat,Production,t,17380.0
+2010,Paraguay,Wheat,Production,t,1401987.0
+2010,Peru,Wheat,Production,t,219454.0
+2010,Poland,Wheat,Production,t,9408110.0
+2010,Portugal,Wheat,Production,t,82577.0
+2010,Qatar,Wheat,Production,t,36.0
+2010,Republic of Korea,Wheat,Production,t,39116.0
+2010,Republic of Moldova,Wheat,Production,t,744160.0
+2010,Romania,Wheat,Production,t,5811810.0
+2010,Russian Federation,Wheat,Production,t,41507581.0
+2010,Rwanda,Wheat,Production,t,7661.9
+2010,Saudi Arabia,Wheat,Production,t,1349389.0
+2010,Serbia,Wheat,Production,t,1630404.0
+2010,Slovakia,Wheat,Production,t,1185286.0
+2010,Slovenia,Wheat,Production,t,153481.0
+2010,Somalia,Wheat,Production,t,997.89
+2010,South Africa,Wheat,Production,t,1430000.0
+2010,Spain,Wheat,Production,t,5941197.0
+2010,Sudan (former),Wheat,Production,t,403000.0
+2010,Sweden,Wheat,Production,t,2143000.0
+2010,Switzerland,Wheat,Production,t,524017.0
+2010,Syrian Arab Republic,Wheat,Production,t,3083100.0
+2010,Tajikistan,Wheat,Production,t,1033144.0
+2010,Thailand,Wheat,Production,t,1107.41
+2010,Tunisia,Wheat,Production,t,822000.0
+2010,Turkmenistan,Wheat,Production,t,1476620.0
+2010,Türkiye,Wheat,Production,t,19674000.0
+2010,Uganda,Wheat,Production,t,20000.0
+2010,Ukraine,Wheat,Production,t,16851300.0
+2010,United Arab Emirates,Wheat,Production,t,
+2010,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,14877835.0
+2010,United Republic of Tanzania,Wheat,Production,t,62370.0
+2010,United States of America,Wheat,Production,t,60062408.0
+2010,Uruguay,Wheat,Production,t,1844416.0
+2010,Uzbekistan,Wheat,Production,t,6745000.0
+2010,Venezuela (Bolivarian Republic of),Wheat,Production,t,183.0
+2010,Yemen,Wheat,Production,t,265432.0
+2010,Zambia,Wheat,Production,t,172256.0
+2010,Zimbabwe,Wheat,Production,t,18000.0
+2011,Afghanistan,Wheat,Production,t,3388000.0
+2011,Albania,Wheat,Production,t,292800.0
+2011,Algeria,Wheat,Production,t,2910890.0
+2011,Angola,Wheat,Production,t,4000.0
+2011,Argentina,Wheat,Production,t,14500519.0
+2011,Armenia,Wheat,Production,t,224082.0
+2011,Australia,Wheat,Production,t,29905009.0
+2011,Austria,Wheat,Production,t,1781837.0
+2011,Azerbaijan,Wheat,Production,t,1594394.0
+2011,Bangladesh,Wheat,Production,t,972085.0
+2011,Belarus,Wheat,Production,t,2132369.0
+2011,Belgium,Wheat,Production,t,1687749.0
+2011,Bhutan,Wheat,Production,t,6266.0
+2011,Bolivia (Plurinational State of),Wheat,Production,t,182927.0
+2011,Bosnia and Herzegovina,Wheat,Production,t,210004.0
+2011,Botswana,Wheat,Production,t,0.0
+2011,Brazil,Wheat,Production,t,5690043.0
+2011,Bulgaria,Wheat,Production,t,4458492.0
+2011,Burundi,Wheat,Production,t,9787.0
+2011,Cameroon,Wheat,Production,t,950.0
+2011,Canada,Wheat,Production,t,25288000.0
+2011,Chad,Wheat,Production,t,1723.0
+2011,Chile,Wheat,Production,t,1575822.0
+2011,China,Wheat,Production,t,117414034.0
+2011,Colombia,Wheat,Production,t,12754.0
+2011,Croatia,Wheat,Production,t,782499.0
+2011,Cyprus,Wheat,Production,t,23740.0
+2011,Czechia,Wheat,Production,t,4913048.0
+2011,Democratic People's Republic of Korea,Wheat,Production,t,127000.0
+2011,Democratic Republic of the Congo,Wheat,Production,t,8841.0
+2011,Denmark,Wheat,Production,t,4831000.0
+2011,Ecuador,Wheat,Production,t,5938.0
+2011,Egypt,Wheat,Production,t,8407126.0
+2011,Eritrea,Wheat,Production,t,29000.0
+2011,Estonia,Wheat,Production,t,360400.0
+2011,Eswatini,Wheat,Production,t,556.4
+2011,Ethiopia,Wheat,Production,t,3091540.0
+2011,Finland,Wheat,Production,t,974800.0
+2011,France,Wheat,Production,t,35992794.3
+2011,Georgia,Wheat,Production,t,96800.0
+2011,Germany,Wheat,Production,t,22782700.0
+2011,Greece,Wheat,Production,t,1857428.8
+2011,Guatemala,Wheat,Production,t,1433.35
+2011,Honduras,Wheat,Production,t,1170.08
+2011,Hungary,Wheat,Production,t,4107000.0
+2011,India,Wheat,Production,t,86874000.0
+2011,Iran (Islamic Republic of),Wheat,Production,t,8677966.0
+2011,Iraq,Wheat,Production,t,2808900.0
+2011,Ireland,Wheat,Production,t,929200.0
+2011,Israel,Wheat,Production,t,141866.0
+2011,Italy,Wheat,Production,t,6641806.5
+2011,Japan,Wheat,Production,t,746300.0
+2011,Jordan,Wheat,Production,t,19801.0
+2011,Kazakhstan,Wheat,Production,t,22732066.51
+2011,Kenya,Wheat,Production,t,268482.0
+2011,Kuwait,Wheat,Production,t,62.0
+2011,Kyrgyzstan,Wheat,Production,t,799841.0
+2011,Latvia,Wheat,Production,t,939500.0
+2011,Lebanon,Wheat,Production,t,125000.0
+2011,Lesotho,Wheat,Production,t,20065.0
+2011,Libya,Wheat,Production,t,166000.0
+2011,Lithuania,Wheat,Production,t,1869300.0
+2011,Luxembourg,Wheat,Production,t,76839.0
+2011,Madagascar,Wheat,Production,t,10000.0
+2011,Malawi,Wheat,Production,t,1850.0
+2011,Mali,Wheat,Production,t,33842.0
+2011,Malta,Wheat,Production,t,12468.12
+2011,Mauritania,Wheat,Production,t,2888.0
+2011,Mexico,Wheat,Production,t,3627511.0
+2011,Mongolia,Wheat,Production,t,435889.0
+2011,Montenegro,Wheat,Production,t,1614.0
+2011,Morocco,Wheat,Production,t,6017821.0
+2011,Mozambique,Wheat,Production,t,20350.0
+2011,Myanmar,Wheat,Production,t,169800.0
+2011,Namibia,Wheat,Production,t,16300.0
+2011,Nepal,Wheat,Production,t,1745811.0
+2011,Netherlands (Kingdom of the),Wheat,Production,t,1175275.0
+2011,New Caledonia,Wheat,Production,t,0.0
+2011,New Zealand,Wheat,Production,t,383262.0
+2011,Niger,Wheat,Production,t,1291.0
+2011,Nigeria,Wheat,Production,t,165000.0
+2011,North Macedonia,Wheat,Production,t,256103.0
+2011,Norway,Wheat,Production,t,284600.0
+2011,Oman,Wheat,Production,t,2126.0
+2011,Pakistan,Wheat,Production,t,25213800.0
+2011,Palestine,Wheat,Production,t,17840.0
+2011,Paraguay,Wheat,Production,t,1463881.0
+2011,Peru,Wheat,Production,t,214140.0
+2011,Poland,Wheat,Production,t,9339200.0
+2011,Portugal,Wheat,Production,t,51003.0
+2011,Qatar,Wheat,Production,t,26.0
+2011,Republic of Korea,Wheat,Production,t,43677.0
+2011,Republic of Moldova,Wheat,Production,t,794783.0
+2011,Romania,Wheat,Production,t,7131590.0
+2011,Russian Federation,Wheat,Production,t,56239994.0
+2011,Rwanda,Wheat,Production,t,8464.56
+2011,Saudi Arabia,Wheat,Production,t,1184454.0
+2011,Serbia,Wheat,Production,t,2076237.0
+2011,Slovakia,Wheat,Production,t,1631112.0
+2011,Slovenia,Wheat,Production,t,153575.0
+2011,Somalia,Wheat,Production,t,1005.5
+2011,South Africa,Wheat,Production,t,2005000.0
+2011,Spain,Wheat,Production,t,6876657.0
+2011,Sudan (former),Wheat,Production,t,292000.0
+2011,Sweden,Wheat,Production,t,2253100.0
+2011,Switzerland,Wheat,Production,t,553150.0
+2011,Syrian Arab Republic,Wheat,Production,t,3858331.0
+2011,Tajikistan,Wheat,Production,t,726880.0
+2011,Thailand,Wheat,Production,t,1115.48
+2011,Tunisia,Wheat,Production,t,1605500.0
+2011,Turkmenistan,Wheat,Production,t,1168220.0
+2011,Türkiye,Wheat,Production,t,21800000.0
+2011,Uganda,Wheat,Production,t,23000.0
+2011,Ukraine,Wheat,Production,t,22323600.0
+2011,United Arab Emirates,Wheat,Production,t,
+2011,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,15257083.0
+2011,United Republic of Tanzania,Wheat,Production,t,112658.0
+2011,United States of America,Wheat,Production,t,54418808.0
+2011,Uruguay,Wheat,Production,t,1300700.0
+2011,Uzbekistan,Wheat,Production,t,6526955.0
+2011,Venezuela (Bolivarian Republic of),Wheat,Production,t,204.0
+2011,Yemen,Wheat,Production,t,232339.0
+2011,Zambia,Wheat,Production,t,237332.0
+2011,Zimbabwe,Wheat,Production,t,23000.0
+2012,Afghanistan,Wheat,Production,t,5050000.0
+2012,Albania,Wheat,Production,t,300000.0
+2012,Algeria,Wheat,Production,t,3432231.0
+2012,Angola,Wheat,Production,t,4826.7
+2012,Argentina,Wheat,Production,t,8023996.0
+2012,Armenia,Wheat,Production,t,243130.0
+2012,Australia,Wheat,Production,t,22855576.0
+2012,Austria,Wheat,Production,t,1275498.0
+2012,Azerbaijan,Wheat,Production,t,1797028.0
+2012,Bangladesh,Wheat,Production,t,995356.0
+2012,Belarus,Wheat,Production,t,2553570.0
+2012,Belgium,Wheat,Production,t,1834624.0
+2012,Bhutan,Wheat,Production,t,5038.0
+2012,Bolivia (Plurinational State of),Wheat,Production,t,145151.13
+2012,Bosnia and Herzegovina,Wheat,Production,t,225137.0
+2012,Botswana,Wheat,Production,t,0.0
+2012,Brazil,Wheat,Production,t,4418388.0
+2012,Bulgaria,Wheat,Production,t,4455104.0
+2012,Burundi,Wheat,Production,t,4196.0
+2012,Cameroon,Wheat,Production,t,800.0
+2012,Canada,Wheat,Production,t,27246000.0
+2012,Chad,Wheat,Production,t,8750.0
+2012,Chile,Wheat,Production,t,1213101.0
+2012,China,Wheat,Production,t,121030059.0
+2012,Colombia,Wheat,Production,t,8990.0
+2012,Croatia,Wheat,Production,t,999681.0
+2012,Cyprus,Wheat,Production,t,22923.0
+2012,Czechia,Wheat,Production,t,3518896.0
+2012,Democratic People's Republic of Korea,Wheat,Production,t,74000.0
+2012,Democratic Republic of the Congo,Wheat,Production,t,9292.28
+2012,Denmark,Wheat,Production,t,4525100.0
+2012,Ecuador,Wheat,Production,t,7450.22
+2012,Egypt,Wheat,Production,t,8795483.0
+2012,Eritrea,Wheat,Production,t,33000.0
+2012,Estonia,Wheat,Production,t,484700.0
+2012,Eswatini,Wheat,Production,t,700.0
+2012,Ethiopia,Wheat,Production,t,3434706.0
+2012,Finland,Wheat,Production,t,887100.0
+2012,France,Wheat,Production,t,37885741.8
+2012,Georgia,Wheat,Production,t,80700.0
+2012,Germany,Wheat,Production,t,22409300.0
+2012,Greece,Wheat,Production,t,1835900.96
+2012,Guatemala,Wheat,Production,t,1515.0
+2012,Honduras,Wheat,Production,t,1173.61
+2012,Hungary,Wheat,Production,t,4010990.0
+2012,India,Wheat,Production,t,94880000.0
+2012,Iran (Islamic Republic of),Wheat,Production,t,8816001.0
+2012,Iraq,Wheat,Production,t,3062312.0
+2012,Ireland,Wheat,Production,t,707900.0
+2012,Israel,Wheat,Production,t,222487.0
+2012,Italy,Wheat,Production,t,7654248.3
+2012,Japan,Wheat,Production,t,857800.0
+2012,Jordan,Wheat,Production,t,19205.0
+2012,Kazakhstan,Wheat,Production,t,9841127.62
+2012,Kenya,Wheat,Production,t,441944.0
+2012,Kuwait,Wheat,Production,t,116.0
+2012,Kyrgyzstan,Wheat,Production,t,540531.0
+2012,Latvia,Wheat,Production,t,1539800.0
+2012,Lebanon,Wheat,Production,t,150000.0
+2012,Lesotho,Wheat,Production,t,10516.0
+2012,Libya,Wheat,Production,t,200000.0
+2012,Lithuania,Wheat,Production,t,2998900.0
+2012,Luxembourg,Wheat,Production,t,79198.0
+2012,Madagascar,Wheat,Production,t,10000.0
+2012,Malawi,Wheat,Production,t,1956.0
+2012,Mali,Wheat,Production,t,40071.0
+2012,Malta,Wheat,Production,t,12172.61
+2012,Mauritania,Wheat,Production,t,6092.0
+2012,Mexico,Wheat,Production,t,3274337.0
+2012,Mongolia,Wheat,Production,t,465294.0
+2012,Montenegro,Wheat,Production,t,1444.0
+2012,Morocco,Wheat,Production,t,3878000.0
+2012,Mozambique,Wheat,Production,t,17653.0
+2012,Myanmar,Wheat,Production,t,177600.0
+2012,Namibia,Wheat,Production,t,14500.0
+2012,Nepal,Wheat,Production,t,1846142.0
+2012,Netherlands (Kingdom of the),Wheat,Production,t,1302002.0
+2012,New Caledonia,Wheat,Production,t,20.0
+2012,New Zealand,Wheat,Production,t,488614.0
+2012,Niger,Wheat,Production,t,3114.0
+2012,Nigeria,Wheat,Production,t,100000.0
+2012,North Macedonia,Wheat,Production,t,214963.0
+2012,Norway,Wheat,Production,t,274700.0
+2012,Oman,Wheat,Production,t,2000.0
+2012,Pakistan,Wheat,Production,t,23473400.0
+2012,Palestine,Wheat,Production,t,26670.0
+2012,Paraguay,Wheat,Production,t,1560600.0
+2012,Peru,Wheat,Production,t,226218.46
+2012,Poland,Wheat,Production,t,8607600.0
+2012,Portugal,Wheat,Production,t,58990.0
+2012,Qatar,Wheat,Production,t,48.0
+2012,Republic of Korea,Wheat,Production,t,37014.0
+2012,Republic of Moldova,Wheat,Production,t,495231.0
+2012,Romania,Wheat,Production,t,5297748.0
+2012,Russian Federation,Wheat,Production,t,37719640.0
+2012,Rwanda,Wheat,Production,t,8528.12
+2012,Saudi Arabia,Wheat,Production,t,854256.0
+2012,Serbia,Wheat,Production,t,2399224.56
+2012,Slovakia,Wheat,Production,t,1275302.0
+2012,Slovenia,Wheat,Production,t,188065.0
+2012,Somalia,Wheat,Production,t,1000.0
+2012,South Africa,Wheat,Production,t,1915000.0
+2012,Spain,Wheat,Production,t,5189828.0
+2012,Sudan,Wheat,Production,t,324000.0
+2012,Sweden,Wheat,Production,t,2289300.0
+2012,Switzerland,Wheat,Production,t,515595.0
+2012,Syrian Arab Republic,Wheat,Production,t,3609096.0
+2012,Tajikistan,Wheat,Production,t,812588.0
+2012,Thailand,Wheat,Production,t,1000.0
+2012,Tunisia,Wheat,Production,t,1523300.0
+2012,Turkmenistan,Wheat,Production,t,1200000.0
+2012,Türkiye,Wheat,Production,t,20100000.0
+2012,Uganda,Wheat,Production,t,20000.0
+2012,Ukraine,Wheat,Production,t,15762600.0
+2012,United Arab Emirates,Wheat,Production,t,
+2012,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,13261000.0
+2012,United Republic of Tanzania,Wheat,Production,t,108887.0
+2012,United States of America,Wheat,Production,t,61677384.0
+2012,Uruguay,Wheat,Production,t,2016300.0
+2012,Uzbekistan,Wheat,Production,t,6612200.0
+2012,Venezuela (Bolivarian Republic of),Wheat,Production,t,218.0
+2012,Yemen,Wheat,Production,t,250264.0
+2012,Zambia,Wheat,Production,t,253522.0
+2012,Zimbabwe,Wheat,Production,t,53231.78
+2013,Afghanistan,Wheat,Production,t,5169235.0
+2013,Albania,Wheat,Production,t,294000.0
+2013,Algeria,Wheat,Production,t,3299049.0
+2013,Angola,Wheat,Production,t,3416.86
+2013,Argentina,Wheat,Production,t,9188339.0
+2013,Armenia,Wheat,Production,t,311558.0
+2013,Australia,Wheat,Production,t,25303037.0
+2013,Austria,Wheat,Production,t,1597706.42
+2013,Azerbaijan,Wheat,Production,t,1841307.0
+2013,Bangladesh,Wheat,Production,t,1255000.0
+2013,Belarus,Wheat,Production,t,2101183.0
+2013,Belgium,Wheat,Production,t,1803550.0
+2013,Bhutan,Wheat,Production,t,5310.0
+2013,Bolivia (Plurinational State of),Wheat,Production,t,208735.26
+2013,Bosnia and Herzegovina,Wheat,Production,t,265152.0
+2013,Botswana,Wheat,Production,t,0.0
+2013,Brazil,Wheat,Production,t,5738473.0
+2013,Bulgaria,Wheat,Production,t,5504941.0
+2013,Burundi,Wheat,Production,t,6423.0
+2013,Cameroon,Wheat,Production,t,850.0
+2013,Canada,Wheat,Production,t,37589100.0
+2013,Chad,Wheat,Production,t,1757.0
+2013,Chile,Wheat,Production,t,1474663.0
+2013,China,Wheat,Production,t,121930527.0
+2013,Colombia,Wheat,Production,t,8345.66
+2013,Croatia,Wheat,Production,t,998940.0
+2013,Cyprus,Wheat,Production,t,15181.0
+2013,Czechia,Wheat,Production,t,4700696.0
+2013,Democratic People's Republic of Korea,Wheat,Production,t,75000.0
+2013,Democratic Republic of the Congo,Wheat,Production,t,9602.49
+2013,Denmark,Wheat,Production,t,4145200.0
+2013,Ecuador,Wheat,Production,t,5755.0
+2013,Egypt,Wheat,Production,t,9460200.0
+2013,Eritrea,Wheat,Production,t,30000.0
+2013,Estonia,Wheat,Production,t,406800.0
+2013,Eswatini,Wheat,Production,t,720.0
+2013,Ethiopia,Wheat,Production,t,3925174.0
+2013,Finland,Wheat,Production,t,869400.0
+2013,France,Wheat,Production,t,38651472.0
+2013,Georgia,Wheat,Production,t,81000.0
+2013,Germany,Wheat,Production,t,25019100.0
+2013,Greece,Wheat,Production,t,1831869.31
+2013,Guatemala,Wheat,Production,t,1556.0
+2013,Honduras,Wheat,Production,t,1186.05
+2013,Hungary,Wheat,Production,t,5058300.0
+2013,India,Wheat,Production,t,93510000.0
+2013,Iran (Islamic Republic of),Wheat,Production,t,9304246.0
+2013,Iraq,Wheat,Production,t,4178379.0
+2013,Ireland,Wheat,Production,t,545300.0
+2013,Israel,Wheat,Production,t,178200.0
+2013,Italy,Wheat,Production,t,7312024.7
+2013,Japan,Wheat,Production,t,811700.0
+2013,Jordan,Wheat,Production,t,28517.0
+2013,Kazakhstan,Wheat,Production,t,13940809.27
+2013,Kenya,Wheat,Production,t,449641.0
+2013,Kuwait,Wheat,Production,t,37.0
+2013,Kyrgyzstan,Wheat,Production,t,819383.0
+2013,Latvia,Wheat,Production,t,1435000.0
+2013,Lebanon,Wheat,Production,t,140000.0
+2013,Lesotho,Wheat,Production,t,13472.0
+2013,Libya,Wheat,Production,t,200000.0
+2013,Lithuania,Wheat,Production,t,2871300.0
+2013,Luxembourg,Wheat,Production,t,91057.0
+2013,Madagascar,Wheat,Production,t,5000.0
+2013,Malawi,Wheat,Production,t,1784.0
+2013,Mali,Wheat,Production,t,27430.0
+2013,Malta,Wheat,Production,t,11864.98
+2013,Mauritania,Wheat,Production,t,6684.0
+2013,Mexico,Wheat,Production,t,3357307.0
+2013,Mongolia,Wheat,Production,t,368379.0
+2013,Montenegro,Wheat,Production,t,2300.9
+2013,Morocco,Wheat,Production,t,6933982.62
+2013,Mozambique,Wheat,Production,t,19800.0
+2013,Myanmar,Wheat,Production,t,182900.0
+2013,Namibia,Wheat,Production,t,15000.0
+2013,Nepal,Wheat,Production,t,1727346.0
+2013,Netherlands (Kingdom of the),Wheat,Production,t,1335105.0
+2013,New Caledonia,Wheat,Production,t,41.0
+2013,New Zealand,Wheat,Production,t,447799.0
+2013,Niger,Wheat,Production,t,5666.0
+2013,Nigeria,Wheat,Production,t,80000.0
+2013,North Macedonia,Wheat,Production,t,258960.0
+2013,Norway,Wheat,Production,t,213000.0
+2013,Oman,Wheat,Production,t,1095.0
+2013,Pakistan,Wheat,Production,t,24211360.0
+2013,Palestine,Wheat,Production,t,41720.0
+2013,Paraguay,Wheat,Production,t,1430000.0
+2013,Peru,Wheat,Production,t,230105.0
+2013,Poland,Wheat,Production,t,9485183.0
+2013,Portugal,Wheat,Production,t,92014.0
+2013,Qatar,Wheat,Production,t,86.0
+2013,Republic of Korea,Wheat,Production,t,19061.0
+2013,Republic of Moldova,Wheat,Production,t,1008647.0
+2013,Romania,Wheat,Production,t,7296373.0
+2013,Russian Federation,Wheat,Production,t,52090797.0
+2013,Rwanda,Wheat,Production,t,9036.27
+2013,Saudi Arabia,Wheat,Production,t,660145.0
+2013,Serbia,Wheat,Production,t,2690266.0
+2013,Slovakia,Wheat,Production,t,1684274.0
+2013,Slovenia,Wheat,Production,t,138235.0
+2013,Somalia,Wheat,Production,t,1000.0
+2013,South Africa,Wheat,Production,t,1870000.0
+2013,Spain,Wheat,Production,t,7744900.0
+2013,Sudan,Wheat,Production,t,265000.0
+2013,Sweden,Wheat,Production,t,1868600.0
+2013,Switzerland,Wheat,Production,t,479659.0
+2013,Syrian Arab Republic,Wheat,Production,t,3182111.0
+2013,Tajikistan,Wheat,Production,t,947350.0
+2013,Thailand,Wheat,Production,t,1500.0
+2013,Tunisia,Wheat,Production,t,975490.0
+2013,Turkmenistan,Wheat,Production,t,1370000.0
+2013,Türkiye,Wheat,Production,t,22050000.0
+2013,Uganda,Wheat,Production,t,20000.0
+2013,Ukraine,Wheat,Production,t,22279300.0
+2013,United Arab Emirates,Wheat,Production,t,
+2013,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,11921304.0
+2013,United Republic of Tanzania,Wheat,Production,t,103973.0
+2013,United States of America,Wheat,Production,t,58104610.0
+2013,Uruguay,Wheat,Production,t,982000.0
+2013,Uzbekistan,Wheat,Production,t,6841977.0
+2013,Venezuela (Bolivarian Republic of),Wheat,Production,t,161.0
+2013,Yemen,Wheat,Production,t,232190.0
+2013,Zambia,Wheat,Production,t,273584.0
+2013,Zimbabwe,Wheat,Production,t,50966.05
+2014,Afghanistan,Wheat,Production,t,5370259.0
+2014,Albania,Wheat,Production,t,280000.0
+2014,Algeria,Wheat,Production,t,2436197.0
+2014,Angola,Wheat,Production,t,4782.76
+2014,Argentina,Wheat,Production,t,13930078.0
+2014,Armenia,Wheat,Production,t,338158.0
+2014,Australia,Wheat,Production,t,23742560.0
+2014,Austria,Wheat,Production,t,1804018.24
+2014,Azerbaijan,Wheat,Production,t,1407405.0
+2014,Bangladesh,Wheat,Production,t,1303000.0
+2014,Belarus,Wheat,Production,t,2925079.0
+2014,Belgium,Wheat,Production,t,1994600.0
+2014,Bhutan,Wheat,Production,t,5172.0
+2014,Bolivia (Plurinational State of),Wheat,Production,t,159670.0
+2014,Bosnia and Herzegovina,Wheat,Production,t,170550.0
+2014,Botswana,Wheat,Production,t,0.0
+2014,Brazil,Wheat,Production,t,6261895.0
+2014,Bulgaria,Wheat,Production,t,5347078.0
+2014,Burundi,Wheat,Production,t,5628.0
+2014,Cameroon,Wheat,Production,t,850.0
+2014,Canada,Wheat,Production,t,29442100.0
+2014,Chad,Wheat,Production,t,809.0
+2014,Chile,Wheat,Production,t,1358128.0
+2014,China,Wheat,Production,t,126215211.0
+2014,Colombia,Wheat,Production,t,6488.09
+2014,Croatia,Wheat,Production,t,648917.0
+2014,Cyprus,Wheat,Production,t,4445.0
+2014,Czechia,Wheat,Production,t,5442349.0
+2014,Democratic People's Republic of Korea,Wheat,Production,t,45000.0
+2014,Democratic Republic of the Congo,Wheat,Production,t,10000.0
+2014,Denmark,Wheat,Production,t,5153300.0
+2014,Ecuador,Wheat,Production,t,6814.24
+2014,Egypt,Wheat,Production,t,8800000.0
+2014,Eritrea,Wheat,Production,t,30000.0
+2014,Estonia,Wheat,Production,t,615500.0
+2014,Eswatini,Wheat,Production,t,710.27
+2014,Ethiopia,Wheat,Production,t,4231589.0
+2014,Finland,Wheat,Production,t,1088200.0
+2014,France,Wheat,Production,t,38950202.0
+2014,Georgia,Wheat,Production,t,47500.0
+2014,Germany,Wheat,Production,t,27784700.0
+2014,Greece,Wheat,Production,t,1570415.56
+2014,Guatemala,Wheat,Production,t,1673.76
+2014,Honduras,Wheat,Production,t,1193.6
+2014,Hungary,Wheat,Production,t,5261890.0
+2014,India,Wheat,Production,t,95850000.0
+2014,Iran (Islamic Republic of),Wheat,Production,t,10578698.6
+2014,Iraq,Wheat,Production,t,5055111.0
+2014,Ireland,Wheat,Production,t,717000.0
+2014,Israel,Wheat,Production,t,139800.0
+2014,Italy,Wheat,Production,t,7141926.4
+2014,Japan,Wheat,Production,t,852400.0
+2014,Jordan,Wheat,Production,t,27452.0
+2014,Kazakhstan,Wheat,Production,t,12996864.74
+2014,Kenya,Wheat,Production,t,228900.0
+2014,Kuwait,Wheat,Production,t,56.0
+2014,Kyrgyzstan,Wheat,Production,t,572734.0
+2014,Latvia,Wheat,Production,t,1467500.0
+2014,Lebanon,Wheat,Production,t,140000.0
+2014,Lesotho,Wheat,Production,t,12592.0
+2014,Libya,Wheat,Production,t,200000.0
+2014,Lithuania,Wheat,Production,t,3230600.0
+2014,Luxembourg,Wheat,Production,t,77943.0
+2014,Madagascar,Wheat,Production,t,5000.0
+2014,Malawi,Wheat,Production,t,1160.0
+2014,Mali,Wheat,Production,t,45668.0
+2014,Malta,Wheat,Production,t,11543.04
+2014,Mauritania,Wheat,Production,t,7059.0
+2014,Mexico,Wheat,Production,t,3669813.71
+2014,Mongolia,Wheat,Production,t,494540.0
+2014,Montenegro,Wheat,Production,t,2159.0
+2014,Morocco,Wheat,Production,t,5115884.22
+2014,Mozambique,Wheat,Production,t,20710.0
+2014,Myanmar,Wheat,Production,t,182400.0
+2014,Namibia,Wheat,Production,t,10000.0
+2014,Nepal,Wheat,Production,t,1883147.0
+2014,Netherlands (Kingdom of the),Wheat,Production,t,1304054.0
+2014,New Caledonia,Wheat,Production,t,0.0
+2014,New Zealand,Wheat,Production,t,413497.0
+2014,Niger,Wheat,Production,t,1802.0
+2014,Nigeria,Wheat,Production,t,91300.0
+2014,North Macedonia,Wheat,Production,t,287954.0
+2014,Norway,Wheat,Production,t,389600.0
+2014,Oman,Wheat,Production,t,3403.0
+2014,Pakistan,Wheat,Production,t,25979399.0
+2014,Palestine,Wheat,Production,t,41720.0
+2014,Paraguay,Wheat,Production,t,840000.0
+2014,Peru,Wheat,Production,t,218904.0
+2014,Poland,Wheat,Production,t,11628670.0
+2014,Portugal,Wheat,Production,t,98794.0
+2014,Qatar,Wheat,Production,t,5.0
+2014,Republic of Korea,Wheat,Production,t,23409.0
+2014,Republic of Moldova,Wheat,Production,t,1101682.0
+2014,Romania,Wheat,Production,t,7584814.0
+2014,Russian Federation,Wheat,Production,t,59711381.9
+2014,Rwanda,Wheat,Production,t,7886.0
+2014,Saudi Arabia,Wheat,Production,t,718530.0
+2014,Serbia,Wheat,Production,t,2387202.3
+2014,Slovakia,Wheat,Production,t,2072405.3
+2014,Slovenia,Wheat,Production,t,173245.0
+2014,Somalia,Wheat,Production,t,1019.98
+2014,South Africa,Wheat,Production,t,1750000.0
+2014,Spain,Wheat,Production,t,6471400.0
+2014,Sudan,Wheat,Production,t,473000.0
+2014,Sweden,Wheat,Production,t,3086400.0
+2014,Switzerland,Wheat,Production,t,550826.0
+2014,Syrian Arab Republic,Wheat,Production,t,2024332.33
+2014,Tajikistan,Wheat,Production,t,868368.0
+2014,Thailand,Wheat,Production,t,1312.77
+2014,Tunisia,Wheat,Production,t,1513000.0
+2014,Turkmenistan,Wheat,Production,t,1200000.0
+2014,Türkiye,Wheat,Production,t,19000000.0
+2014,Uganda,Wheat,Production,t,22076.0
+2014,Ukraine,Wheat,Production,t,24113970.0
+2014,United Arab Emirates,Wheat,Production,t,
+2014,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,16606009.0
+2014,United Republic of Tanzania,Wheat,Production,t,167000.0
+2014,United States of America,Wheat,Production,t,55147120.0
+2014,Uruguay,Wheat,Production,t,1532796.0
+2014,Uzbekistan,Wheat,Production,t,6955976.0
+2014,Venezuela (Bolivarian Republic of),Wheat,Production,t,161.0
+2014,Yemen,Wheat,Production,t,192215.0
+2014,Zambia,Wheat,Production,t,201504.0
+2014,Zimbabwe,Wheat,Production,t,40000.0
+2015,Afghanistan,Wheat,Production,t,4673040.0
+2015,Albania,Wheat,Production,t,275000.0
+2015,Algeria,Wheat,Production,t,2656731.0
+2015,Angola,Wheat,Production,t,4724.68
+2015,Argentina,Wheat,Production,t,11314952.0
+2015,Armenia,Wheat,Production,t,362746.0
+2015,Australia,Wheat,Production,t,22274514.0
+2015,Austria,Wheat,Production,t,1725736.81
+2015,Azerbaijan,Wheat,Production,t,1639830.0
+2015,Bangladesh,Wheat,Production,t,1348000.0
+2015,Belarus,Wheat,Production,t,2896411.0
+2015,Belgium,Wheat,Production,t,2019347.0
+2015,Bhutan,Wheat,Production,t,3730.0
+2015,Bolivia (Plurinational State of),Wheat,Production,t,337599.0
+2015,Bosnia and Herzegovina,Wheat,Production,t,213015.0
+2015,Botswana,Wheat,Production,t,0.0
+2015,Brazil,Wheat,Production,t,5508451.0
+2015,Bulgaria,Wheat,Production,t,5011597.0
+2015,Burundi,Wheat,Production,t,6655.66
+2015,Cameroon,Wheat,Production,t,850.0
+2015,Canada,Wheat,Production,t,27647400.0
+2015,Chad,Wheat,Production,t,965.0
+2015,Chile,Wheat,Production,t,1482310.1
+2015,China,Wheat,Production,t,132646335.0
+2015,Colombia,Wheat,Production,t,9890.5
+2015,Croatia,Wheat,Production,t,758638.0
+2015,Cyprus,Wheat,Production,t,35356.0
+2015,Czechia,Wheat,Production,t,5274272.0
+2015,Democratic People's Republic of Korea,Wheat,Production,t,55000.0
+2015,Democratic Republic of the Congo,Wheat,Production,t,9500.0
+2015,Denmark,Wheat,Production,t,5029300.0
+2015,Ecuador,Wheat,Production,t,2052.72
+2015,Egypt,Wheat,Production,t,9607736.0
+2015,Eritrea,Wheat,Production,t,25000.0
+2015,Estonia,Wheat,Production,t,812600.0
+2015,Eswatini,Wheat,Production,t,686.7
+2015,Ethiopia,Wheat,Production,t,4650933.63
+2015,Finland,Wheat,Production,t,992100.0
+2015,France,Wheat,Production,t,42750027.4
+2015,Georgia,Wheat,Production,t,125600.0
+2015,Germany,Wheat,Production,t,26549500.0
+2015,Greece,Wheat,Production,t,1458705.46
+2015,Guatemala,Wheat,Production,t,594.21
+2015,Honduras,Wheat,Production,t,1213.15
+2015,Hungary,Wheat,Production,t,5331426.0
+2015,India,Wheat,Production,t,86530000.0
+2015,Iran (Islamic Republic of),Wheat,Production,t,11522318.0
+2015,Iraq,Wheat,Production,t,2645061.0
+2015,Ireland,Wheat,Production,t,696600.0
+2015,Israel,Wheat,Production,t,173000.0
+2015,Italy,Wheat,Production,t,7394494.7
+2015,Japan,Wheat,Production,t,1004000.0
+2015,Jordan,Wheat,Production,t,21925.0
+2015,Kazakhstan,Wheat,Production,t,13746967.0
+2015,Kenya,Wheat,Production,t,238600.0
+2015,Kuwait,Wheat,Production,t,45.0
+2015,Kyrgyzstan,Wheat,Production,t,704601.0
+2015,Latvia,Wheat,Production,t,2250100.0
+2015,Lebanon,Wheat,Production,t,139000.0
+2015,Lesotho,Wheat,Production,t,7069.0
+2015,Libya,Wheat,Production,t,160000.0
+2015,Lithuania,Wheat,Production,t,4380330.0
+2015,Luxembourg,Wheat,Production,t,91058.0
+2015,Madagascar,Wheat,Production,t,5000.0
+2015,Malawi,Wheat,Production,t,1178.0
+2015,Mali,Wheat,Production,t,35756.0
+2015,Malta,Wheat,Production,t,10000.0
+2015,Mauritania,Wheat,Production,t,7050.0
+2015,Mexico,Wheat,Production,t,3710706.27
+2015,Mongolia,Wheat,Production,t,206508.0
+2015,Montenegro,Wheat,Production,t,2111.0
+2015,Morocco,Wheat,Production,t,8074658.89
+2015,Mozambique,Wheat,Production,t,20280.0
+2015,Myanmar,Wheat,Production,t,179300.0
+2015,Namibia,Wheat,Production,t,10147.71
+2015,Nepal,Wheat,Production,t,1975625.0
+2015,Netherlands (Kingdom of the),Wheat,Production,t,1300085.0
+2015,New Caledonia,Wheat,Production,t,6.58
+2015,New Zealand,Wheat,Production,t,413533.0
+2015,Niger,Wheat,Production,t,8090.0
+2015,Nigeria,Wheat,Production,t,60000.0
+2015,North Macedonia,Wheat,Production,t,201218.0
+2015,Norway,Wheat,Production,t,495200.0
+2015,Oman,Wheat,Production,t,2525.0
+2015,Pakistan,Wheat,Production,t,25086174.0
+2015,Palestine,Wheat,Production,t,26320.0
+2015,Paraguay,Wheat,Production,t,1139147.0
+2015,Peru,Wheat,Production,t,214849.0
+2015,Poland,Wheat,Production,t,10957787.0
+2015,Portugal,Wheat,Production,t,80393.0
+2015,Qatar,Wheat,Production,t,0.0
+2015,Republic of Korea,Wheat,Production,t,26433.0
+2015,Republic of Moldova,Wheat,Production,t,922283.0
+2015,Romania,Wheat,Production,t,7962421.0
+2015,Russian Federation,Wheat,Production,t,61785799.2
+2015,Rwanda,Wheat,Production,t,7995.0
+2015,Saudi Arabia,Wheat,Production,t,693776.0
+2015,Serbia,Wheat,Production,t,2428203.0
+2015,Slovakia,Wheat,Production,t,2082134.0
+2015,Slovenia,Wheat,Production,t,157058.0
+2015,Somalia,Wheat,Production,t,1031.36
+2015,South Africa,Wheat,Production,t,1440000.0
+2015,Spain,Wheat,Production,t,6362694.0
+2015,Sudan,Wheat,Production,t,778600.0
+2015,Sweden,Wheat,Production,t,3300400.0
+2015,Switzerland,Wheat,Production,t,527257.0
+2015,Syrian Arab Republic,Wheat,Production,t,2677156.0
+2015,Tajikistan,Wheat,Production,t,896362.0
+2015,Thailand,Wheat,Production,t,1265.48
+2015,Tunisia,Wheat,Production,t,912570.0
+2015,Turkmenistan,Wheat,Production,t,1406000.0
+2015,Türkiye,Wheat,Production,t,22600000.0
+2015,Uganda,Wheat,Production,t,22078.0
+2015,Ukraine,Wheat,Production,t,26532100.0
+2015,United Arab Emirates,Wheat,Production,t,
+2015,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,16444000.0
+2015,United Republic of Tanzania,Wheat,Production,t,72483.0
+2015,United States of America,Wheat,Production,t,55839540.0
+2015,Uruguay,Wheat,Production,t,1076000.0
+2015,Uzbekistan,Wheat,Production,t,6964664.0
+2015,Venezuela (Bolivarian Republic of),Wheat,Production,t,179.0
+2015,Yemen,Wheat,Production,t,124940.0
+2015,Zambia,Wheat,Production,t,214230.0
+2015,Zimbabwe,Wheat,Production,t,45302.0
+2016,Afghanistan,Wheat,Production,t,4555110.0
+2016,Albania,Wheat,Production,t,275000.0
+2016,Algeria,Wheat,Production,t,2440097.0
+2016,Angola,Wheat,Production,t,5116.15
+2016,Argentina,Wheat,Production,t,18395106.0
+2016,Armenia,Wheat,Production,t,350369.0
+2016,Australia,Wheat,Production,t,31818743.54
+2016,Austria,Wheat,Production,t,1970363.6
+2016,Azerbaijan,Wheat,Production,t,1799858.5
+2016,Bangladesh,Wheat,Production,t,1348186.0
+2016,Belarus,Wheat,Production,t,2339829.0
+2016,Belgium,Wheat,Production,t,1400074.0
+2016,Bhutan,Wheat,Production,t,2521.0
+2016,Bolivia (Plurinational State of),Wheat,Production,t,329437.0
+2016,Bosnia and Herzegovina,Wheat,Production,t,306605.0
+2016,Botswana,Wheat,Production,t,0.0
+2016,Brazil,Wheat,Production,t,6834421.0
+2016,Bulgaria,Wheat,Production,t,5662721.0
+2016,Burundi,Wheat,Production,t,7980.0
+2016,Cameroon,Wheat,Production,t,800.0
+2016,Canada,Wheat,Production,t,32139900.0
+2016,Chad,Wheat,Production,t,1742.0
+2016,Chile,Wheat,Production,t,1731935.0
+2016,China,Wheat,Production,t,133274638.0
+2016,Colombia,Wheat,Production,t,13550.27
+2016,Croatia,Wheat,Production,t,969050.0
+2016,Cyprus,Wheat,Production,t,6902.0
+2016,Czechia,Wheat,Production,t,5454663.0
+2016,Democratic People's Republic of Korea,Wheat,Production,t,39000.0
+2016,Democratic Republic of the Congo,Wheat,Production,t,11000.0
+2016,Denmark,Wheat,Production,t,4201500.0
+2016,Ecuador,Wheat,Production,t,6745.77
+2016,Egypt,Wheat,Production,t,9342538.0
+2016,Eritrea,Wheat,Production,t,25000.0
+2016,Estonia,Wheat,Production,t,455543.0
+2016,Eswatini,Wheat,Production,t,683.13
+2016,Ethiopia,Wheat,Production,t,4549571.0
+2016,Finland,Wheat,Production,t,823900.0
+2016,France,Wheat,Production,t,29316331.0
+2016,Georgia,Wheat,Production,t,126600.0
+2016,Germany,Wheat,Production,t,24463800.0
+2016,Greece,Wheat,Production,t,1560776.99
+2016,Guatemala,Wheat,Production,t,743.89
+2016,Honduras,Wheat,Production,t,1224.43
+2016,Hungary,Wheat,Production,t,5603184.0
+2016,India,Wheat,Production,t,92290000.0
+2016,Iran (Islamic Republic of),Wheat,Production,t,14592003.0
+2016,Iraq,Wheat,Production,t,3052939.0
+2016,Ireland,Wheat,Production,t,647700.0
+2016,Israel,Wheat,Production,t,168000.0
+2016,Italy,Wheat,Production,t,8037872.1
+2016,Japan,Wheat,Production,t,790800.0
+2016,Jordan,Wheat,Production,t,31150.0
+2016,Kazakhstan,Wheat,Production,t,14985379.0
+2016,Kenya,Wheat,Production,t,214700.0
+2016,Kuwait,Wheat,Production,t,12.0
+2016,Kyrgyzstan,Wheat,Production,t,661513.9
+2016,Latvia,Wheat,Production,t,2062300.0
+2016,Lebanon,Wheat,Production,t,129037.0
+2016,Lesotho,Wheat,Production,t,4690.0
+2016,Libya,Wheat,Production,t,200000.0
+2016,Lithuania,Wheat,Production,t,3844491.0
+2016,Luxembourg,Wheat,Production,t,70069.0
+2016,Madagascar,Wheat,Production,t,5000.0
+2016,Malawi,Wheat,Production,t,797.0
+2016,Mali,Wheat,Production,t,40137.0
+2016,Malta,Wheat,Production,t,10595.53
+2016,Mauritania,Wheat,Production,t,7720.0
+2016,Mexico,Wheat,Production,t,3862914.27
+2016,Mongolia,Wheat,Production,t,467052.79
+2016,Montenegro,Wheat,Production,t,2353.8
+2016,Morocco,Wheat,Production,t,2731123.0
+2016,Mozambique,Wheat,Production,t,17088.0
+2016,Myanmar,Wheat,Production,t,102636.0
+2016,Namibia,Wheat,Production,t,9822.0
+2016,Nepal,Wheat,Production,t,1736848.58
+2016,Netherlands (Kingdom of the),Wheat,Production,t,1016479.0
+2016,New Caledonia,Wheat,Production,t,8.48
+2016,New Zealand,Wheat,Production,t,459349.0
+2016,Niger,Wheat,Production,t,8234.18
+2016,Nigeria,Wheat,Production,t,60000.0
+2016,North Macedonia,Wheat,Production,t,306433.0
+2016,Norway,Wheat,Production,t,309400.0
+2016,Oman,Wheat,Production,t,3980.0
+2016,Pakistan,Wheat,Production,t,25633028.0
+2016,Palestine,Wheat,Production,t,37030.0
+2016,Paraguay,Wheat,Production,t,1144000.0
+2016,Peru,Wheat,Production,t,188468.76
+2016,Poland,Wheat,Production,t,10827902.0
+2016,Portugal,Wheat,Production,t,90017.0
+2016,Qatar,Wheat,Production,t,6.2
+2016,Republic of Korea,Wheat,Production,t,38705.0
+2016,Republic of Moldova,Wheat,Production,t,1292921.0
+2016,Romania,Wheat,Production,t,8431131.0
+2016,Russian Federation,Wheat,Production,t,73345679.0
+2016,Rwanda,Wheat,Production,t,9923.0
+2016,Saudi Arabia,Wheat,Production,t,618653.0
+2016,Serbia,Wheat,Production,t,2884537.0
+2016,Slovakia,Wheat,Production,t,2434213.0
+2016,Slovenia,Wheat,Production,t,163165.0
+2016,Somalia,Wheat,Production,t,1038.68
+2016,South Africa,Wheat,Production,t,1910000.0
+2016,Spain,Wheat,Production,t,7873135.0
+2016,Sudan,Wheat,Production,t,516000.0
+2016,Sweden,Wheat,Production,t,2834500.0
+2016,Switzerland,Wheat,Production,t,386720.0
+2016,Syrian Arab Republic,Wheat,Production,t,1626588.0
+2016,Tajikistan,Wheat,Production,t,917081.4
+2016,Thailand,Wheat,Production,t,1303.89
+2016,Tunisia,Wheat,Production,t,926592.0
+2016,Turkmenistan,Wheat,Production,t,1604641.57
+2016,Türkiye,Wheat,Production,t,20600000.0
+2016,Uganda,Wheat,Production,t,22100.0
+2016,Ukraine,Wheat,Production,t,26098830.0
+2016,United Arab Emirates,Wheat,Production,t,
+2016,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,14383000.0
+2016,United Republic of Tanzania,Wheat,Production,t,76000.0
+2016,United States of America,Wheat,Production,t,62831507.0
+2016,Uruguay,Wheat,Production,t,1191000.0
+2016,Uzbekistan,Wheat,Production,t,6934876.0
+2016,Venezuela (Bolivarian Republic of),Wheat,Production,t,139.5
+2016,Yemen,Wheat,Production,t,95917.0
+2016,Zambia,Wheat,Production,t,159533.0
+2016,Zimbabwe,Wheat,Production,t,42008.0
+2017,Afghanistan,Wheat,Production,t,4280776.0
+2017,Albania,Wheat,Production,t,274877.0
+2017,Algeria,Wheat,Production,t,2436503.0
+2017,Angola,Wheat,Production,t,5342.07
+2017,Argentina,Wheat,Production,t,18518045.0
+2017,Armenia,Wheat,Production,t,176428.0
+2017,Australia,Wheat,Production,t,20941134.0
+2017,Austria,Wheat,Production,t,1437143.0
+2017,Azerbaijan,Wheat,Production,t,1769574.1
+2017,Bangladesh,Wheat,Production,t,1311473.0
+2017,Belarus,Wheat,Production,t,2620230.0
+2017,Belgium,Wheat,Production,t,1702721.0
+2017,Bhutan,Wheat,Production,t,3883.0
+2017,Bolivia (Plurinational State of),Wheat,Production,t,154293.0
+2017,Bosnia and Herzegovina,Wheat,Production,t,292368.04
+2017,Botswana,Wheat,Production,t,0.0
+2017,Brazil,Wheat,Production,t,4342812.0
+2017,Bulgaria,Wheat,Production,t,6132671.0
+2017,Burundi,Wheat,Production,t,8060.0
+2017,Cameroon,Wheat,Production,t,800.0
+2017,Canada,Wheat,Production,t,30377235.0
+2017,Chad,Wheat,Production,t,1870.0
+2017,Chile,Wheat,Production,t,1349491.9
+2017,China,Wheat,Production,t,134246679.0
+2017,Colombia,Wheat,Production,t,5478.61
+2017,Croatia,Wheat,Production,t,687595.0
+2017,Cyprus,Wheat,Production,t,16592.0
+2017,Czechia,Wheat,Production,t,4718205.16
+2017,Democratic People's Republic of Korea,Wheat,Production,t,43800.0
+2017,Democratic Republic of the Congo,Wheat,Production,t,10000.0
+2017,Denmark,Wheat,Production,t,4834100.0
+2017,Ecuador,Wheat,Production,t,5803.0
+2017,Egypt,Wheat,Production,t,8421071.0
+2017,Eritrea,Wheat,Production,t,25000.0
+2017,Estonia,Wheat,Production,t,713263.0
+2017,Eswatini,Wheat,Production,t,689.52
+2017,Ethiopia,Wheat,Production,t,4888946.0
+2017,Finland,Wheat,Production,t,802000.0
+2017,France,Wheat,Production,t,38677896.0
+2017,Georgia,Wheat,Production,t,97900.0
+2017,Germany,Wheat,Production,t,24481600.0
+2017,Greece,Wheat,Production,t,1356772.0
+2017,Guatemala,Wheat,Production,t,638.0
+2017,Honduras,Wheat,Production,t,1234.19
+2017,Hungary,Wheat,Production,t,5246258.0
+2017,India,Wheat,Production,t,98510220.0
+2017,Iran (Islamic Republic of),Wheat,Production,t,12400000.0
+2017,Iraq,Wheat,Production,t,2974136.0
+2017,Ireland,Wheat,Production,t,681679.0
+2017,Israel,Wheat,Production,t,72200.0
+2017,Italy,Wheat,Production,t,6966465.0
+2017,Japan,Wheat,Production,t,906700.0
+2017,Jordan,Wheat,Production,t,12110.0
+2017,Kazakhstan,Wheat,Production,t,14802865.0
+2017,Kenya,Wheat,Production,t,165200.0
+2017,Kuwait,Wheat,Production,t,22.0
+2017,Kyrgyzstan,Wheat,Production,t,600997.2
+2017,Latvia,Wheat,Production,t,2138800.0
+2017,Lebanon,Wheat,Production,t,125797.0
+2017,Lesotho,Wheat,Production,t,8851.0
+2017,Libya,Wheat,Production,t,140000.0
+2017,Lithuania,Wheat,Production,t,3917372.0
+2017,Luxembourg,Wheat,Production,t,77781.0
+2017,Madagascar,Wheat,Production,t,5000.0
+2017,Malawi,Wheat,Production,t,745.0
+2017,Mali,Wheat,Production,t,28015.0
+2017,Malta,Wheat,Production,t,12412.68
+2017,Mauritania,Wheat,Production,t,7577.16
+2017,Mexico,Wheat,Production,t,3503521.0
+2017,Mongolia,Wheat,Production,t,231364.35
+2017,Montenegro,Wheat,Production,t,2462.5
+2017,Morocco,Wheat,Production,t,7090817.0
+2017,Mozambique,Wheat,Production,t,17100.0
+2017,Myanmar,Wheat,Production,t,123251.86
+2017,Namibia,Wheat,Production,t,6094.0
+2017,Nepal,Wheat,Production,t,1879191.46
+2017,Netherlands (Kingdom of the),Wheat,Production,t,1054151.0
+2017,New Caledonia,Wheat,Production,t,14.26
+2017,New Zealand,Wheat,Production,t,405182.3
+2017,Niger,Wheat,Production,t,6003.39
+2017,Nigeria,Wheat,Production,t,82758.0
+2017,North Macedonia,Wheat,Production,t,200112.0
+2017,Norway,Wheat,Production,t,400500.0
+2017,Oman,Wheat,Production,t,3980.0
+2017,Pakistan,Wheat,Production,t,26673703.0
+2017,Palestine,Wheat,Production,t,34559.88
+2017,Paraguay,Wheat,Production,t,1020000.0
+2017,Peru,Wheat,Production,t,192099.0
+2017,Poland,Wheat,Production,t,11665702.0
+2017,Portugal,Wheat,Production,t,59610.0
+2017,Qatar,Wheat,Production,t,16.0
+2017,Republic of Korea,Wheat,Production,t,37425.0
+2017,Republic of Moldova,Wheat,Production,t,1250702.0
+2017,Romania,Wheat,Production,t,10034955.0
+2017,Russian Federation,Wheat,Production,t,86002542.0
+2017,Rwanda,Wheat,Production,t,10926.27
+2017,Saudi Arabia,Wheat,Production,t,620923.0
+2017,Serbia,Wheat,Production,t,2275622.58
+2017,Slovakia,Wheat,Production,t,1770659.0
+2017,Slovenia,Wheat,Production,t,140961.0
+2017,Somalia,Wheat,Production,t,1044.66
+2017,South Africa,Wheat,Production,t,1535000.0
+2017,Spain,Wheat,Production,t,4875957.0
+2017,Sudan,Wheat,Production,t,463000.0
+2017,Sweden,Wheat,Production,t,3298600.0
+2017,Switzerland,Wheat,Production,t,530552.0
+2017,Syrian Arab Republic,Wheat,Production,t,1850740.18
+2017,Tajikistan,Wheat,Production,t,899653.0
+2017,Thailand,Wheat,Production,t,1350.35
+2017,Tunisia,Wheat,Production,t,1104300.0
+2017,Turkmenistan,Wheat,Production,t,1587860.26
+2017,Türkiye,Wheat,Production,t,21500000.0
+2017,Uganda,Wheat,Production,t,22100.0
+2017,Ukraine,Wheat,Production,t,26208980.0
+2017,United Arab Emirates,Wheat,Production,t,
+2017,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,14837000.0
+2017,United Republic of Tanzania,Wheat,Production,t,50467.0
+2017,United States of America,Wheat,Production,t,47379810.0
+2017,Uruguay,Wheat,Production,t,757000.0
+2017,Uzbekistan,Wheat,Production,t,6079164.0
+2017,Venezuela (Bolivarian Republic of),Wheat,Production,t,584.44
+2017,Yemen,Wheat,Production,t,95651.0
+2017,Zambia,Wheat,Production,t,193713.15
+2017,Zimbabwe,Wheat,Production,t,38715.0
+2018,Afghanistan,Wheat,Production,t,3613300.0
+2018,Albania,Wheat,Production,t,240294.0
+2018,Algeria,Wheat,Production,t,3981219.15
+2018,Angola,Wheat,Production,t,4430.93
+2018,Argentina,Wheat,Production,t,19459727.0
+2018,Armenia,Wheat,Production,t,187453.0
+2018,Australia,Wheat,Production,t,17597560.79
+2018,Austria,Wheat,Production,t,1367060.0
+2018,Azerbaijan,Wheat,Production,t,1991683.0
+2018,Bangladesh,Wheat,Production,t,1099373.0
+2018,Belarus,Wheat,Production,t,1814765.0
+2018,Belgium,Wheat,Production,t,1661860.0
+2018,Bhutan,Wheat,Production,t,1445.19
+2018,Bolivia (Plurinational State of),Wheat,Production,t,301688.85
+2018,Bosnia and Herzegovina,Wheat,Production,t,295810.0
+2018,Botswana,Wheat,Production,t,1212.0
+2018,Brazil,Wheat,Production,t,5469236.0
+2018,Bulgaria,Wheat,Production,t,5954520.0
+2018,Burundi,Wheat,Production,t,22751.0
+2018,Cameroon,Wheat,Production,t,700.0
+2018,Canada,Wheat,Production,t,32351900.0
+2018,Chad,Wheat,Production,t,1798.02
+2018,Chile,Wheat,Production,t,1469003.4
+2018,China,Wheat,Production,t,131446596.0
+2018,Colombia,Wheat,Production,t,6399.28
+2018,Croatia,Wheat,Production,t,753060.0
+2018,Cyprus,Wheat,Production,t,15330.0
+2018,Czechia,Wheat,Production,t,4417840.0
+2018,Democratic People's Republic of Korea,Wheat,Production,t,50900.0
+2018,Democratic Republic of the Congo,Wheat,Production,t,11500.0
+2018,Denmark,Wheat,Production,t,2623930.0
+2018,Ecuador,Wheat,Production,t,5398.0
+2018,Egypt,Wheat,Production,t,8348629.0
+2018,Eritrea,Wheat,Production,t,25000.0
+2018,Estonia,Wheat,Production,t,450270.0
+2018,Eswatini,Wheat,Production,t,701.5
+2018,Ethiopia,Wheat,Production,t,5285945.0
+2018,Finland,Wheat,Production,t,501600.0
+2018,France,Wheat,Production,t,35424140.0
+2018,Georgia,Wheat,Production,t,107100.0
+2018,Germany,Wheat,Production,t,20263500.0
+2018,Greece,Wheat,Production,t,1072940.0
+2018,Guatemala,Wheat,Production,t,464.0
+2018,Honduras,Wheat,Production,t,1243.99
+2018,Hungary,Wheat,Production,t,5258430.0
+2018,India,Wheat,Production,t,99869520.0
+2018,Iran (Islamic Republic of),Wheat,Production,t,13300000.0
+2018,Iraq,Wheat,Production,t,2177885.0
+2018,Ireland,Wheat,Production,t,485480.0
+2018,Israel,Wheat,Production,t,70500.0
+2018,Italy,Wheat,Production,t,7104650.0
+2018,Japan,Wheat,Production,t,764900.0
+2018,Jordan,Wheat,Production,t,16389.0
+2018,Kazakhstan,Wheat,Production,t,13944108.0
+2018,Kenya,Wheat,Production,t,336600.0
+2018,Kuwait,Wheat,Production,t,9.0
+2018,Kyrgyzstan,Wheat,Production,t,615926.0
+2018,Latvia,Wheat,Production,t,1431600.0
+2018,Lebanon,Wheat,Production,t,131977.0
+2018,Lesotho,Wheat,Production,t,6975.0
+2018,Libya,Wheat,Production,t,200000.0
+2018,Lithuania,Wheat,Production,t,2838900.0
+2018,Luxembourg,Wheat,Production,t,79650.0
+2018,Madagascar,Wheat,Production,t,5000.0
+2018,Malawi,Wheat,Production,t,729.0
+2018,Mali,Wheat,Production,t,29185.0
+2018,Malta,Wheat,Production,t,0.0
+2018,Mauritania,Wheat,Production,t,7457.45
+2018,Mexico,Wheat,Production,t,2943445.12
+2018,Mongolia,Wheat,Production,t,436114.89
+2018,Montenegro,Wheat,Production,t,2466.9
+2018,Morocco,Wheat,Production,t,7320620.11
+2018,Mozambique,Wheat,Production,t,17000.0
+2018,Myanmar,Wheat,Production,t,115995.52
+2018,Namibia,Wheat,Production,t,6094.0
+2018,Nepal,Wheat,Production,t,1949001.0
+2018,Netherlands (Kingdom of the),Wheat,Production,t,961920.0
+2018,New Caledonia,Wheat,Production,t,4.4
+2018,New Zealand,Wheat,Production,t,371026.79
+2018,Niger,Wheat,Production,t,4807.08
+2018,Nigeria,Wheat,Production,t,88362.0
+2018,North Macedonia,Wheat,Production,t,241106.0
+2018,Norway,Wheat,Production,t,137700.0
+2018,Oman,Wheat,Production,t,3579.0
+2018,Pakistan,Wheat,Production,t,25076149.0
+2018,Palestine,Wheat,Production,t,69080.0
+2018,Paraguay,Wheat,Production,t,722400.0
+2018,Peru,Wheat,Production,t,195245.82
+2018,Poland,Wheat,Production,t,9637620.0
+2018,Portugal,Wheat,Production,t,70110.0
+2018,Qatar,Wheat,Production,t,15.0
+2018,Republic of Korea,Wheat,Production,t,25788.0
+2018,Republic of Moldova,Wheat,Production,t,1162778.0
+2018,Romania,Wheat,Production,t,10143670.0
+2018,Russian Federation,Wheat,Production,t,72136149.0
+2018,Rwanda,Wheat,Production,t,13475.16
+2018,Saudi Arabia,Wheat,Production,t,586413.0
+2018,Serbia,Wheat,Production,t,2941601.0
+2018,Slovakia,Wheat,Production,t,1927930.0
+2018,Slovenia,Wheat,Production,t,121900.0
+2018,Somalia,Wheat,Production,t,1049.62
+2018,South Africa,Wheat,Production,t,1868000.0
+2018,Spain,Wheat,Production,t,8322510.0
+2018,Sudan,Wheat,Production,t,702000.0
+2018,Sweden,Wheat,Production,t,1620300.0
+2018,Switzerland,Wheat,Production,t,511446.0
+2018,Syrian Arab Republic,Wheat,Production,t,1222987.62
+2018,Tajikistan,Wheat,Production,t,778986.3
+2018,Thailand,Wheat,Production,t,1306.58
+2018,Tunisia,Wheat,Production,t,1075400.0
+2018,Turkmenistan,Wheat,Production,t,1086552.0
+2018,Türkiye,Wheat,Production,t,20000000.0
+2018,Uganda,Wheat,Production,t,23206.0
+2018,Ukraine,Wheat,Production,t,24652840.0
+2018,United Arab Emirates,Wheat,Production,t,
+2018,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,13555000.0
+2018,United Republic of Tanzania,Wheat,Production,t,56651.0
+2018,United States of America,Wheat,Production,t,51305540.0
+2018,Uruguay,Wheat,Production,t,440000.0
+2018,Uzbekistan,Wheat,Production,t,5410760.0
+2018,Venezuela (Bolivarian Republic of),Wheat,Production,t,1151.0
+2018,Yemen,Wheat,Production,t,92210.0
+2018,Zambia,Wheat,Production,t,114462.73
+2018,Zimbabwe,Wheat,Production,t,45000.0
+2019,Afghanistan,Wheat,Production,t,4890000.0
+2019,Albania,Wheat,Production,t,233218.0
+2019,Algeria,Wheat,Production,t,3876876.0
+2019,Angola,Wheat,Production,t,5544.29
+2019,Argentina,Wheat,Production,t,19776942.0
+2019,Armenia,Wheat,Production,t,112621.0
+2019,Australia,Wheat,Production,t,14480217.44
+2019,Austria,Wheat,Production,t,1596880.0
+2019,Azerbaijan,Wheat,Production,t,2114138.8
+2019,Bangladesh,Wheat,Production,t,1016811.0
+2019,Belarus,Wheat,Production,t,2308660.0
+2019,Belgium,Wheat,Production,t,1902380.0
+2019,Bhutan,Wheat,Production,t,1318.54
+2019,Bolivia (Plurinational State of),Wheat,Production,t,237127.0
+2019,Bosnia and Herzegovina,Wheat,Production,t,264769.0
+2019,Botswana,Wheat,Production,t,377.0
+2019,Brazil,Wheat,Production,t,5590815.0
+2019,Bulgaria,Wheat,Production,t,6319630.0
+2019,Burundi,Wheat,Production,t,4894.0
+2019,Cameroon,Wheat,Production,t,500.0
+2019,Canada,Wheat,Production,t,32669800.0
+2019,Chad,Wheat,Production,t,1613.0
+2019,Chile,Wheat,Production,t,1399919.0
+2019,China,Wheat,Production,t,133601131.0
+2019,Colombia,Wheat,Production,t,5684.02
+2019,Croatia,Wheat,Production,t,803270.0
+2019,Cyprus,Wheat,Production,t,29470.0
+2019,Czechia,Wheat,Production,t,4812160.0
+2019,Democratic People's Republic of Korea,Wheat,Production,t,87500.0
+2019,Democratic Republic of the Congo,Wheat,Production,t,10042.21
+2019,Denmark,Wheat,Production,t,4642090.0
+2019,Ecuador,Wheat,Production,t,5073.39
+2019,Egypt,Wheat,Production,t,8558807.0
+2019,Eritrea,Wheat,Production,t,25000.0
+2019,Estonia,Wheat,Production,t,846580.0
+2019,Eswatini,Wheat,Production,t,714.65
+2019,Ethiopia,Wheat,Production,t,5515070.0
+2019,Finland,Wheat,Production,t,914180.0
+2019,France,Wheat,Production,t,40604960.0
+2019,Georgia,Wheat,Production,t,100600.0
+2019,Germany,Wheat,Production,t,23062600.0
+2019,Greece,Wheat,Production,t,979220.0
+2019,Guatemala,Wheat,Production,t,164.0
+2019,Honduras,Wheat,Production,t,1256.19
+2019,Hungary,Wheat,Production,t,5377710.0
+2019,India,Wheat,Production,t,103596230.0
+2019,Iran (Islamic Republic of),Wheat,Production,t,13715300.0
+2019,Iraq,Wheat,Production,t,4343473.0
+2019,Ireland,Wheat,Production,t,595360.0
+2019,Israel,Wheat,Production,t,84750.0
+2019,Italy,Wheat,Production,t,6739470.0
+2019,Japan,Wheat,Production,t,1037000.0
+2019,Jordan,Wheat,Production,t,26361.0
+2019,Kazakhstan,Wheat,Production,t,11451648.71
+2019,Kenya,Wheat,Production,t,366200.0
+2019,Kuwait,Wheat,Production,t,57.0
+2019,Kyrgyzstan,Wheat,Production,t,601216.2
+2019,Latvia,Wheat,Production,t,2371000.0
+2019,Lebanon,Wheat,Production,t,102679.0
+2019,Lesotho,Wheat,Production,t,1432.0
+2019,Libya,Wheat,Production,t,140000.0
+2019,Lithuania,Wheat,Production,t,3843850.0
+2019,Luxembourg,Wheat,Production,t,82260.0
+2019,Madagascar,Wheat,Production,t,5000.0
+2019,Malawi,Wheat,Production,t,566.0
+2019,Mali,Wheat,Production,t,8226.0
+2019,Malta,Wheat,Production,t,0.0
+2019,Mauritania,Wheat,Production,t,7378.73
+2019,Mexico,Wheat,Production,t,3244062.03
+2019,Mongolia,Wheat,Production,t,411414.78
+2019,Montenegro,Wheat,Production,t,2147.0
+2019,Morocco,Wheat,Production,t,4025302.52
+2019,Mozambique,Wheat,Production,t,18000.0
+2019,Myanmar,Wheat,Production,t,110663.0
+2019,Namibia,Wheat,Production,t,6100.0
+2019,Nepal,Wheat,Production,t,2005665.0
+2019,Netherlands (Kingdom of the),Wheat,Production,t,1130530.0
+2019,New Caledonia,Wheat,Production,t,109.0
+2019,New Zealand,Wheat,Production,t,398092.0
+2019,Niger,Wheat,Production,t,4919.88
+2019,Nigeria,Wheat,Production,t,86900.0
+2019,North Macedonia,Wheat,Production,t,239916.0
+2019,Norway,Wheat,Production,t,450100.0
+2019,Oman,Wheat,Production,t,3615.0
+2019,Pakistan,Wheat,Production,t,24348983.0
+2019,Palestine,Wheat,Production,t,34370.0
+2019,Paraguay,Wheat,Production,t,1358000.0
+2019,Peru,Wheat,Production,t,188468.76
+2019,Poland,Wheat,Production,t,10807490.0
+2019,Portugal,Wheat,Production,t,77070.0
+2019,Qatar,Wheat,Production,t,1.4
+2019,Republic of Korea,Wheat,Production,t,15024.0
+2019,Republic of Moldova,Wheat,Production,t,1147482.0
+2019,Romania,Wheat,Production,t,10297110.0
+2019,Russian Federation,Wheat,Production,t,74452692.0
+2019,Rwanda,Wheat,Production,t,15686.27
+2019,Saudi Arabia,Wheat,Production,t,500175.0
+2019,Serbia,Wheat,Production,t,2534643.11
+2019,Slovakia,Wheat,Production,t,1939130.0
+2019,Slovenia,Wheat,Production,t,139810.0
+2019,Somalia,Wheat,Production,t,1053.38
+2019,South Africa,Wheat,Production,t,1535000.0
+2019,Spain,Wheat,Production,t,6041170.0
+2019,Sudan,Wheat,Production,t,726000.0
+2019,Sweden,Wheat,Production,t,3476800.0
+2019,Switzerland,Wheat,Production,t,497459.0
+2019,Syrian Arab Republic,Wheat,Production,t,3085097.0
+2019,Tajikistan,Wheat,Production,t,836884.0
+2019,Thailand,Wheat,Production,t,1320.27
+2019,Tunisia,Wheat,Production,t,1455000.0
+2019,Turkmenistan,Wheat,Production,t,1654024.0
+2019,Türkiye,Wheat,Production,t,19000000.0
+2019,Uganda,Wheat,Production,t,24000.0
+2019,Ukraine,Wheat,Production,t,28370280.0
+2019,United Arab Emirates,Wheat,Production,t,
+2019,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,16225000.0
+2019,United Republic of Tanzania,Wheat,Production,t,63388.0
+2019,United States of America,Wheat,Production,t,52580890.0
+2019,Uruguay,Wheat,Production,t,727600.0
+2019,Uzbekistan,Wheat,Production,t,6093462.0
+2019,Venezuela (Bolivarian Republic of),Wheat,Production,t,831.0
+2019,Yemen,Wheat,Production,t,100332.0
+2019,Zambia,Wheat,Production,t,151850.47
+2019,Zimbabwe,Wheat,Production,t,94685.0
+2020,Afghanistan,Wheat,Production,t,5185000.0
+2020,Albania,Wheat,Production,t,233430.0
+2020,Algeria,Wheat,Production,t,3106754.0
+2020,Angola,Wheat,Production,t,4375.0
+2020,Argentina,Wheat,Production,t,17644277.0
+2020,Armenia,Wheat,Production,t,131951.2
+2020,Australia,Wheat,Production,t,31922554.7
+2020,Austria,Wheat,Production,t,1652740.0
+2020,Azerbaijan,Wheat,Production,t,1818664.8
+2020,Bangladesh,Wheat,Production,t,1029000.0
+2020,Belarus,Wheat,Production,t,2848391.0
+2020,Belgium,Wheat,Production,t,1741480.0
+2020,Bhutan,Wheat,Production,t,1623.24
+2020,Bolivia (Plurinational State of),Wheat,Production,t,311310.0
+2020,Bosnia and Herzegovina,Wheat,Production,t,321804.0
+2020,Botswana,Wheat,Production,t,1028.1
+2020,Brazil,Wheat,Production,t,6344079.0
+2020,Bulgaria,Wheat,Production,t,4847940.0
+2020,Burundi,Wheat,Production,t,4078.0
+2020,Cameroon,Wheat,Production,t,666.67
+2020,Canada,Wheat,Production,t,35437200.0
+2020,Chad,Wheat,Production,t,1815.0
+2020,Chile,Wheat,Production,t,1230988.0
+2020,China,Wheat,Production,t,134256000.0
+2020,Colombia,Wheat,Production,t,6295.0
+2020,Croatia,Wheat,Production,t,867530.0
+2020,Cyprus,Wheat,Production,t,34650.0
+2020,Czechia,Wheat,Production,t,4902410.0
+2020,Democratic People's Republic of Korea,Wheat,Production,t,89000.0
+2020,Democratic Republic of the Congo,Wheat,Production,t,9000.0
+2020,Denmark,Wheat,Production,t,4070410.0
+2020,Ecuador,Wheat,Production,t,14647.0
+2020,Egypt,Wheat,Production,t,9101785.0
+2020,Eritrea,Wheat,Production,t,25000.0
+2020,Estonia,Wheat,Production,t,840520.0
+2020,Eswatini,Wheat,Production,t,719.99
+2020,Ethiopia,Wheat,Production,t,5810450.0
+2020,Finland,Wheat,Production,t,686620.0
+2020,France,Wheat,Production,t,30181140.0
+2020,Georgia,Wheat,Production,t,102400.0
+2020,Germany,Wheat,Production,t,22172100.0
+2020,Greece,Wheat,Production,t,1095150.0
+2020,Guatemala,Wheat,Production,t,239.31
+2020,Honduras,Wheat,Production,t,1269.11
+2020,Hungary,Wheat,Production,t,5121480.0
+2020,India,Wheat,Production,t,107860510.0
+2020,Iran (Islamic Republic of),Wheat,Production,t,13540500.0
+2020,Iraq,Wheat,Production,t,6238392.0
+2020,Ireland,Wheat,Production,t,364920.0
+2020,Israel,Wheat,Production,t,116691.0
+2020,Italy,Wheat,Production,t,6716180.0
+2020,Japan,Wheat,Production,t,949300.0
+2020,Jordan,Wheat,Production,t,25749.0
+2020,Kazakhstan,Wheat,Production,t,14257950.14
+2020,Kenya,Wheat,Production,t,404700.0
+2020,Kuwait,Wheat,Production,t,70.0
+2020,Kyrgyzstan,Wheat,Production,t,629051.5
+2020,Latvia,Wheat,Production,t,2659600.0
+2020,Lebanon,Wheat,Production,t,147508.0
+2020,Lesotho,Wheat,Production,t,2004.0
+2020,Libya,Wheat,Production,t,130000.0
+2020,Lithuania,Wheat,Production,t,4818750.0
+2020,Luxembourg,Wheat,Production,t,72400.0
+2020,Madagascar,Wheat,Production,t,1000.0
+2020,Malawi,Wheat,Production,t,697.0
+2020,Mali,Wheat,Production,t,37124.0
+2020,Malta,Wheat,Production,t,0.0
+2020,Mauritania,Wheat,Production,t,7270.45
+2020,Mexico,Wheat,Production,t,2986689.24
+2020,Mongolia,Wheat,Production,t,406129.13
+2020,Montenegro,Wheat,Production,t,2239.0
+2020,Morocco,Wheat,Production,t,2561897.5
+2020,Mozambique,Wheat,Production,t,15000.0
+2020,Myanmar,Wheat,Production,t,105457.0
+2020,Namibia,Wheat,Production,t,11498.0
+2020,Nepal,Wheat,Production,t,2185289.0
+2020,Netherlands (Kingdom of the),Wheat,Production,t,931830.0
+2020,New Caledonia,Wheat,Production,t,53.6
+2020,New Zealand,Wheat,Production,t,453749.0
+2020,Niger,Wheat,Production,t,5519.8
+2020,Nigeria,Wheat,Production,t,55000.0
+2020,North Macedonia,Wheat,Production,t,246031.0
+2020,Norway,Wheat,Production,t,322500.0
+2020,Oman,Wheat,Production,t,2865.0
+2020,Pakistan,Wheat,Production,t,25247511.0
+2020,Palestine,Wheat,Production,t,34370.0
+2020,Paraguay,Wheat,Production,t,1302870.0
+2020,Peru,Wheat,Production,t,186835.0
+2020,Poland,Wheat,Production,t,12515060.0
+2020,Portugal,Wheat,Production,t,83500.0
+2020,Qatar,Wheat,Production,t,2.3
+2020,Republic of Korea,Wheat,Production,t,16985.0
+2020,Republic of Moldova,Wheat,Production,t,569735.0
+2020,Romania,Wheat,Production,t,6392370.0
+2020,Russian Federation,Wheat,Production,t,85896325.7
+2020,Rwanda,Wheat,Production,t,12811.42
+2020,Saudi Arabia,Wheat,Production,t,554562.0
+2020,Serbia,Wheat,Production,t,2873503.49
+2020,Slovakia,Wheat,Production,t,2133330.0
+2020,Slovenia,Wheat,Production,t,158180.0
+2020,Somalia,Wheat,Production,t,1057.13
+2020,South Africa,Wheat,Production,t,2120000.0
+2020,Spain,Wheat,Production,t,8143510.0
+2020,Sudan,Wheat,Production,t,717578.0
+2020,Sweden,Wheat,Production,t,3214300.0
+2020,Switzerland,Wheat,Production,t,528720.0
+2020,Syrian Arab Republic,Wheat,Production,t,2848471.85
+2020,Tajikistan,Wheat,Production,t,846000.0
+2020,Thailand,Wheat,Production,t,1325.73
+2020,Tunisia,Wheat,Production,t,1042000.0
+2020,Turkmenistan,Wheat,Production,t,1480733.0
+2020,Türkiye,Wheat,Production,t,20500000.0
+2020,Uganda,Wheat,Production,t,25000.0
+2020,Ukraine,Wheat,Production,t,24912350.0
+2020,United Arab Emirates,Wheat,Production,t,
+2020,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,9658000.0
+2020,United Republic of Tanzania,Wheat,Production,t,77276.0
+2020,United States of America,Wheat,Production,t,49751180.0
+2020,Uruguay,Wheat,Production,t,776300.0
+2020,Uzbekistan,Wheat,Production,t,6157844.0
+2020,Venezuela (Bolivarian Republic of),Wheat,Production,t,662.81
+2020,Yemen,Wheat,Production,t,130000.0
+2020,Zambia,Wheat,Production,t,191619.8
+2020,Zimbabwe,Wheat,Production,t,212530.0
+2021,Afghanistan,Wheat,Production,t,4017657.0
+2021,Albania,Wheat,Production,t,225170.9
+2021,Algeria,Wheat,Production,t,2168386.0
+2021,Angola,Wheat,Production,t,9368.0
+2021,Argentina,Wheat,Production,t,22150287.0
+2021,Armenia,Wheat,Production,t,97160.1
+2021,Australia,Wheat,Production,t,36237477.23
+2021,Austria,Wheat,Production,t,1547600.0
+2021,Azerbaijan,Wheat,Production,t,1837188.4
+2021,Bangladesh,Wheat,Production,t,1085368.0
+2021,Belarus,Wheat,Production,t,2441000.0
+2021,Belgium,Wheat,Production,t,1629180.0
+2021,Bhutan,Wheat,Production,t,1168.94
+2021,Bolivia (Plurinational State of),Wheat,Production,t,337098.61
+2021,Bosnia and Herzegovina,Wheat,Production,t,314382.0
+2021,Botswana,Wheat,Production,t,1280.0
+2021,Brazil,Wheat,Production,t,7878413.0
+2021,Bulgaria,Wheat,Production,t,7342990.0
+2021,Burundi,Wheat,Production,t,9295.0
+2021,Cameroon,Wheat,Production,t,622.22
+2021,Canada,Wheat,Production,t,22422100.0
+2021,Chad,Wheat,Production,t,1539.53
+2021,Chile,Wheat,Production,t,1353607.94
+2021,China,Wheat,Production,t,136949000.0
+2021,Colombia,Wheat,Production,t,6965.0
+2021,Croatia,Wheat,Production,t,986930.0
+2021,Cyprus,Wheat,Production,t,25930.0
+2021,Czechia,Wheat,Production,t,4960930.0
+2021,Democratic People's Republic of Korea,Wheat,Production,t,88250.0
+2021,Democratic Republic of the Congo,Wheat,Production,t,9000.0
+2021,Denmark,Wheat,Production,t,4047090.0
+2021,Ecuador,Wheat,Production,t,10898.38
+2021,Egypt,Wheat,Production,t,9842410.95
+2021,Eritrea,Wheat,Production,t,25000.0
+2021,Estonia,Wheat,Production,t,736270.0
+2021,Eswatini,Wheat,Production,t,724.34
+2021,Ethiopia,Wheat,Production,t,6232978.27
+2021,Finland,Wheat,Production,t,687160.0
+2021,France,Wheat,Production,t,36559450.0
+2021,Georgia,Wheat,Production,t,135900.0
+2021,Germany,Wheat,Production,t,21459200.0
+2021,Greece,Wheat,Production,t,1159190.0
+2021,Guatemala,Wheat,Production,t,397.19
+2021,Honduras,Wheat,Production,t,1292.28
+2021,Hungary,Wheat,Production,t,5290140.0
+2021,India,Wheat,Production,t,109586500.0
+2021,Iran (Islamic Republic of),Wheat,Production,t,11132000.0
+2021,Iraq,Wheat,Production,t,4233714.0
+2021,Ireland,Wheat,Production,t,628080.0
+2021,Israel,Wheat,Production,t,150000.0
+2021,Italy,Wheat,Production,t,7294570.0
+2021,Japan,Wheat,Production,t,1097000.0
+2021,Jordan,Wheat,Production,t,25806.0
+2021,Kazakhstan,Wheat,Production,t,11814123.97
+2021,Kenya,Wheat,Production,t,349102.0
+2021,Kuwait,Wheat,Production,t,40.0
+2021,Kyrgyzstan,Wheat,Production,t,362711.0
+2021,Latvia,Wheat,Production,t,2407700.0
+2021,Lebanon,Wheat,Production,t,150232.0
+2021,Lesotho,Wheat,Production,t,2395.0
+2021,Libya,Wheat,Production,t,130000.0
+2021,Lithuania,Wheat,Production,t,4248850.0
+2021,Luxembourg,Wheat,Production,t,76140.0
+2021,Madagascar,Wheat,Production,t,1000.0
+2021,Malawi,Wheat,Production,t,302.0
+2021,Mali,Wheat,Production,t,21000.0
+2021,Malta,Wheat,Production,t,0.0
+2021,Mauritania,Wheat,Production,t,7000.0
+2021,Mexico,Wheat,Production,t,3283613.73
+2021,Mongolia,Wheat,Production,t,566273.03
+2021,Montenegro,Wheat,Production,t,2055.0
+2021,Morocco,Wheat,Production,t,7543847.9
+2021,Mozambique,Wheat,Production,t,15000.0
+2021,Myanmar,Wheat,Production,t,99607.0
+2021,Namibia,Wheat,Production,t,11498.0
+2021,Nepal,Wheat,Production,t,2127276.0
+2021,Netherlands (Kingdom of the),Wheat,Production,t,947250.0
+2021,New Caledonia,Wheat,Production,t,84.5
+2021,New Zealand,Wheat,Production,t,422831.0
+2021,Niger,Wheat,Production,t,5471.44
+2021,Nigeria,Wheat,Production,t,36944.0
+2021,North Macedonia,Wheat,Production,t,243676.0
+2021,Norway,Wheat,Production,t,264900.0
+2021,Oman,Wheat,Production,t,3542.0
+2021,Pakistan,Wheat,Production,t,27464081.0
+2021,Palestine,Wheat,Production,t,25939.0
+2021,Paraguay,Wheat,Production,t,927776.0
+2021,Peru,Wheat,Production,t,203072.79
+2021,Poland,Wheat,Production,t,11893550.0
+2021,Portugal,Wheat,Production,t,69440.0
+2021,Qatar,Wheat,Production,t,252.0
+2021,Republic of Korea,Wheat,Production,t,26324.0
+2021,Republic of Moldova,Wheat,Production,t,1565218.0
+2021,Romania,Wheat,Production,t,10433750.0
+2021,Russian Federation,Wheat,Production,t,76060948.4
+2021,Rwanda,Wheat,Production,t,13684.0
+2021,Saudi Arabia,Wheat,Production,t,612582.0
+2021,Serbia,Wheat,Production,t,3442308.0
+2021,Slovakia,Wheat,Production,t,2002240.0
+2021,Slovenia,Wheat,Production,t,154450.0
+2021,Somalia,Wheat,Production,t,1060.02
+2021,South Africa,Wheat,Production,t,2285000.0
+2021,Spain,Wheat,Production,t,8564630.0
+2021,Sudan,Wheat,Production,t,676380.0
+2021,Sweden,Wheat,Production,t,3027800.0
+2021,Switzerland,Wheat,Production,t,459090.0
+2021,Syrian Arab Republic,Wheat,Production,t,1951805.93
+2021,Tajikistan,Wheat,Production,t,852000.0
+2021,Thailand,Wheat,Production,t,1317.53
+2021,Tunisia,Wheat,Production,t,1193000.0
+2021,Turkmenistan,Wheat,Production,t,1300000.0
+2021,Türkiye,Wheat,Production,t,17650000.0
+2021,Uganda,Wheat,Production,t,25000.0
+2021,Ukraine,Wheat,Production,t,32183300.0
+2021,United Arab Emirates,Wheat,Production,t,
+2021,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,13988000.0
+2021,United Republic of Tanzania,Wheat,Production,t,70000.0
+2021,United States of America,Wheat,Production,t,44803690.0
+2021,Uruguay,Wheat,Production,t,936400.0
+2021,Uzbekistan,Wheat,Production,t,5984756.0
+2021,Venezuela (Bolivarian Republic of),Wheat,Production,t,736.0
+2021,Yemen,Wheat,Production,t,115943.92
+2021,Zambia,Wheat,Production,t,205881.95
+2021,Zimbabwe,Wheat,Production,t,337212.0
+2022,Afghanistan,Wheat,Production,t,3802895.0
+2022,Albania,Wheat,Production,t,233145.0
+2022,Algeria,Wheat,Production,t,3000000.0
+2022,Angola,Wheat,Production,t,8097.0
+2022,Argentina,Wheat,Production,t,12555860.0
+2022,Armenia,Wheat,Production,t,138612.8
+2022,Australia,Wheat,Production,t,41199486.0
+2022,Austria,Wheat,Production,t,1712530.0
+2022,Azerbaijan,Wheat,Production,t,1690831.6
+2022,Bangladesh,Wheat,Production,t,1085834.0
+2022,Belarus,Wheat,Production,t,2900000.0
+2022,Belgium,Wheat,Production,t,1851870.0
+2022,Bhutan,Wheat,Production,t,769.78
+2022,Bolivia (Plurinational State of),Wheat,Production,t,310729.65
+2022,Bosnia and Herzegovina,Wheat,Production,t,281414.0
+2022,Botswana,Wheat,Production,t,2860.0
+2022,Brazil,Wheat,Production,t,10343182.0
+2022,Bulgaria,Wheat,Production,t,6447770.0
+2022,Burundi,Wheat,Production,t,9608.0
+2022,Cameroon,Wheat,Production,t,596.3
+2022,Canada,Wheat,Production,t,34872782.0
+2022,Chad,Wheat,Production,t,1205.0
+2022,Chile,Wheat,Production,t,1106926.47
+2022,China,Wheat,Production,t,137726000.0
+2022,Colombia,Wheat,Production,t,12930.0
+2022,Croatia,Wheat,Production,t,971470.0
+2022,Cyprus,Wheat,Production,t,31100.0
+2022,Czechia,Wheat,Production,t,5188690.0
+2022,Democratic People's Republic of Korea,Wheat,Production,t,88600.0
+2022,Democratic Republic of the Congo,Wheat,Production,t,9000.0
+2022,Denmark,Wheat,Production,t,4165400.0
+2022,Ecuador,Wheat,Production,t,7431.0
+2022,Egypt,Wheat,Production,t,9622993.0
+2022,Eritrea,Wheat,Production,t,25000.0
+2022,Estonia,Wheat,Production,t,854120.0
+2022,Eswatini,Wheat,Production,t,719.66
+2022,Ethiopia,Wheat,Production,t,6231427.18
+2022,Finland,Wheat,Production,t,844240.0
+2022,France,Wheat,Production,t,34632380.0
+2022,Georgia,Wheat,Production,t,156800.0
+2022,Germany,Wheat,Production,t,22587300.0
+2022,Greece,Wheat,Production,t,1203260.0
+2022,Guatemala,Wheat,Production,t,641.0
+2022,Honduras,Wheat,Production,t,1272.53
+2022,Hungary,Wheat,Production,t,4354710.0
+2022,India,Wheat,Production,t,107742070.0
+2022,Iran (Islamic Republic of),Wheat,Production,t,13284000.0
+2022,Iraq,Wheat,Production,t,2764692.0
+2022,Ireland,Wheat,Production,t,701240.0
+2022,Israel,Wheat,Production,t,141600.0
+2022,Italy,Wheat,Production,t,6609520.0
+2022,Japan,Wheat,Production,t,993500.0
+2022,Jordan,Wheat,Production,t,20858.0
+2022,Kazakhstan,Wheat,Production,t,16404491.25
+2022,Kenya,Wheat,Production,t,368696.0
+2022,Kuwait,Wheat,Production,t,40.0
+2022,Kyrgyzstan,Wheat,Production,t,592507.0
+2022,Latvia,Wheat,Production,t,2539400.0
+2022,Lebanon,Wheat,Production,t,152877.0
+2022,Lesotho,Wheat,Production,t,5704.0
+2022,Libya,Wheat,Production,t,130000.0
+2022,Lithuania,Wheat,Production,t,4482760.0
+2022,Luxembourg,Wheat,Production,t,85890.0
+2022,Madagascar,Wheat,Production,t,2000.0
+2022,Malawi,Wheat,Production,t,163.0
+2022,Mali,Wheat,Production,t,33542.0
+2022,Malta,Wheat,Production,t,0.0
+2022,Mauritania,Wheat,Production,t,2000.0
+2022,Mexico,Wheat,Production,t,3610847.35
+2022,Mongolia,Wheat,Production,t,401903.45
+2022,Montenegro,Wheat,Production,t,2074.9
+2022,Morocco,Wheat,Production,t,2707652.17
+2022,Mozambique,Wheat,Production,t,16000.0
+2022,Myanmar,Wheat,Production,t,96723.0
+2022,Namibia,Wheat,Production,t,18489.0
+2022,Nepal,Wheat,Production,t,2144568.0
+2022,Netherlands (Kingdom of the),Wheat,Production,t,1162860.0
+2022,New Caledonia,Wheat,Production,t,5.0
+2022,New Zealand,Wheat,Production,t,402557.0
+2022,Niger,Wheat,Production,t,5774.51
+2022,Nigeria,Wheat,Production,t,31373.56
+2022,North Macedonia,Wheat,Production,t,224632.0
+2022,Norway,Wheat,Production,t,384000.0
+2022,Oman,Wheat,Production,t,3547.0
+2022,Pakistan,Wheat,Production,t,26208672.0
+2022,Palestine,Wheat,Production,t,32811.0
+2022,Paraguay,Wheat,Production,t,972872.0
+2022,Peru,Wheat,Production,t,212403.98
+2022,Poland,Wheat,Production,t,13195120.0
+2022,Portugal,Wheat,Production,t,61920.0
+2022,Qatar,Wheat,Production,t,0.9
+2022,Republic of Korea,Wheat,Production,t,34562.0
+2022,Republic of Moldova,Wheat,Production,t,855007.0
+2022,Romania,Wheat,Production,t,8684240.0
+2022,Russian Federation,Wheat,Production,t,104233944.0
+2022,Rwanda,Wheat,Production,t,13877.29
+2022,Saudi Arabia,Wheat,Production,t,800000.0
+2022,Serbia,Wheat,Production,t,3109827.0
+2022,Slovakia,Wheat,Production,t,2048150.0
+2022,Slovenia,Wheat,Production,t,150750.0
+2022,Somalia,Wheat,Production,t,1056.42
+2022,South Africa,Wheat,Production,t,2110000.0
+2022,Spain,Wheat,Production,t,6508800.0
+2022,Sudan,Wheat,Production,t,476270.0
+2022,Sweden,Wheat,Production,t,3228700.0
+2022,Switzerland,Wheat,Production,t,486667.0
+2022,Syrian Arab Republic,Wheat,Production,t,1551605.0
+2022,Tajikistan,Wheat,Production,t,934274.0
+2022,Thailand,Wheat,Production,t,1321.18
+2022,Tunisia,Wheat,Production,t,1135000.0
+2022,Turkmenistan,Wheat,Production,t,1250000.0
+2022,Türkiye,Wheat,Production,t,19750000.0
+2022,Uganda,Wheat,Production,t,25000.0
+2022,Ukraine,Wheat,Production,t,20729240.0
+2022,United Arab Emirates,Wheat,Production,t,
+2022,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,15540000.0
+2022,United Republic of Tanzania,Wheat,Production,t,66000.0
+2022,United States of America,Wheat,Production,t,44897830.0
+2022,Uruguay,Wheat,Production,t,1283100.0
+2022,Uzbekistan,Wheat,Production,t,6270058.7
+2022,Venezuela (Bolivarian Republic of),Wheat,Production,t,762.0
+2022,Yemen,Wheat,Production,t,100000.0
+2022,Zambia,Wheat,Production,t,234924.63
+2022,Zimbabwe,Wheat,Production,t,250000.0
+2023,Afghanistan,Wheat,Production,t,4350662.0
+2023,Albania,Wheat,Production,t,233584.68
+2023,Algeria,Wheat,Production,t,2500000.0
+2023,Angola,Wheat,Production,t,20921.0
+2023,Argentina,Wheat,Production,t,15853154.0
+2023,Armenia,Wheat,Production,t,177859.6
+2023,Australia,Wheat,Production,t,28028429.0
+2023,Austria,Wheat,Production,t,1744820.0
+2023,Azerbaijan,Wheat,Production,t,1792419.1
+2023,Bangladesh,Wheat,Production,t,1107195.0
+2023,Belarus,Wheat,Production,t,2400000.0
+2023,Belgium,Wheat,Production,t,1791170.0
+2023,Bhutan,Wheat,Production,t,837.01
+2023,Bolivia (Plurinational State of),Wheat,Production,t,272806.32
+2023,Bosnia and Herzegovina,Wheat,Production,t,246515.0
+2023,Botswana,Wheat,Production,t,810.0
+2023,Brazil,Wheat,Production,t,7730188.0
+2023,Bulgaria,Wheat,Production,t,6854760.0
+2023,Burundi,Wheat,Production,t,8969.0
+2023,Cameroon,Wheat,Production,t,628.4
+2023,Canada,Wheat,Production,t,33413600.0
+2023,Chad,Wheat,Production,t,1399.0
+2023,Chile,Wheat,Production,t,1289773.79
+2023,China,Wheat,Production,t,136594100.0
+2023,Colombia,Wheat,Production,t,8322.0
+2023,Croatia,Wheat,Production,t,834230.0
+2023,Cyprus,Wheat,Production,t,28250.0
+2023,Czechia,Wheat,Production,t,5262360.0
+2023,Democratic People's Republic of Korea,Wheat,Production,t,88400.0
+2023,Democratic Republic of the Congo,Wheat,Production,t,9000.0
+2023,Denmark,Wheat,Production,t,3556260.0
+2023,Ecuador,Wheat,Production,t,3976.02
+2023,Egypt,Wheat,Production,t,9065380.0
+2023,Eritrea,Wheat,Production,t,25000.0
+2023,Estonia,Wheat,Production,t,694120.0
+2023,Eswatini,Wheat,Production,t,721.33
+2023,Ethiopia,Wheat,Production,t,6091618.48
+2023,Finland,Wheat,Production,t,749030.0
+2023,France,Wheat,Production,t,35995570.0
+2023,Georgia,Wheat,Production,t,147000.0
+2023,Germany,Wheat,Production,t,21535900.0
+2023,Greece,Wheat,Production,t,1309180.0
+2023,Guatemala,Wheat,Production,t,885.59
+2023,Honduras,Wheat,Production,t,1277.97
+2023,Hungary,Wheat,Production,t,5941990.0
+2023,India,Wheat,Production,t,110553675.31
+2023,Iran (Islamic Republic of),Wheat,Production,t,16620000.0
+2023,Iraq,Wheat,Production,t,4247726.0
+2023,Ireland,Wheat,Production,t,483110.0
+2023,Israel,Wheat,Production,t,150000.0
+2023,Italy,Wheat,Production,t,6894470.0
+2023,Japan,Wheat,Production,t,1094000.0
+2023,Jordan,Wheat,Production,t,26697.5
+2023,Kazakhstan,Wheat,Production,t,12110913.0
+2023,Kenya,Wheat,Production,t,309492.0
+2023,Kuwait,Wheat,Production,t,47.45
+2023,Kyrgyzstan,Wheat,Production,t,440415.0
+2023,Latvia,Wheat,Production,t,2136800.0
+2023,Lebanon,Wheat,Production,t,158754.0
+2023,Lesotho,Wheat,Production,t,6251.0
+2023,Libya,Wheat,Production,t,130000.0
+2023,Lithuania,Wheat,Production,t,4455390.0
+2023,Luxembourg,Wheat,Production,t,72360.0
+2023,Madagascar,Wheat,Production,t,1000.0
+2023,Malawi,Wheat,Production,t,190.0
+2023,Mali,Wheat,Production,t,38500.0
+2023,Malta,Wheat,Production,t,0.0
+2023,Mauritania,Wheat,Production,t,2000.0
+2023,Mexico,Wheat,Production,t,3476026.8
+2023,Mongolia,Wheat,Production,t,443415.59
+2023,Montenegro,Wheat,Production,t,2111.3
+2023,Morocco,Wheat,Production,t,4158471.49
+2023,Mozambique,Wheat,Production,t,16000.0
+2023,Myanmar,Wheat,Production,t,80000.0
+2023,Namibia,Wheat,Production,t,24696.0
+2023,Nepal,Wheat,Production,t,2098462.16
+2023,Netherlands (Kingdom of the),Wheat,Production,t,1096820.0
+2023,New Caledonia,Wheat,Production,t,13.06
+2023,New Zealand,Wheat,Production,t,391615.0
+2023,Niger,Wheat,Production,t,6457.0
+2023,Nigeria,Wheat,Production,t,48868.93
+2023,North Macedonia,Wheat,Production,t,215165.0
+2023,Norway,Wheat,Production,t,172000.0
+2023,Oman,Wheat,Production,t,7892.0
+2023,Pakistan,Wheat,Production,t,28160527.0
+2023,Paraguay,Wheat,Production,t,968789.0
+2023,Peru,Wheat,Production,t,194004.08
+2023,Poland,Wheat,Production,t,12932390.0
+2023,Portugal,Wheat,Production,t,34670.0
+2023,Qatar,Wheat,Production,t,2.4
+2023,Republic of Korea,Wheat,Production,t,51809.0
+2023,Republic of Moldova,Wheat,Production,t,1555023.8
+2023,Romania,Wheat,Production,t,9624070.0
+2023,Russian Federation,Wheat,Production,t,92770000.0
+2023,Rwanda,Wheat,Production,t,16655.89
+2023,Saudi Arabia,Wheat,Production,t,1314427.11
+2023,Serbia,Wheat,Production,t,3448700.0
+2023,Slovakia,Wheat,Production,t,2490600.0
+2023,Slovenia,Wheat,Production,t,145420.0
+2023,Somalia,Wheat,Production,t,1059.86
+2023,South Africa,Wheat,Production,t,2050000.0
+2023,Spain,Wheat,Production,t,4049230.0
+2023,Sudan,Wheat,Production,t,377900.0
+2023,Sweden,Wheat,Production,t,2768200.0
+2023,Switzerland,Wheat,Production,t,447449.0
+2023,Syrian Arab Republic,Wheat,Production,t,3080351.0
+2023,Tajikistan,Wheat,Production,t,860489.0
+2023,Thailand,Wheat,Production,t,1321.48
+2023,Tunisia,Wheat,Production,t,470000.0
+2023,Turkmenistan,Wheat,Production,t,1100000.0
+2023,Türkiye,Wheat,Production,t,22000000.0
+2023,Uganda,Wheat,Production,t,25000.0
+2023,Ukraine,Wheat,Production,t,21625170.0
+2023,United Arab Emirates,Wheat,Production,t,
+2023,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,13980000.0
+2023,United Republic of Tanzania,Wheat,Production,t,86522.0
+2023,United States of America,Wheat,Production,t,49313930.0
+2023,Uruguay,Wheat,Production,t,1343800.0
+2023,Uzbekistan,Wheat,Production,t,6471502.47
+2023,Venezuela (Bolivarian Republic of),Wheat,Production,t,995.0
+2023,Yemen,Wheat,Production,t,100000.0
+2023,Zambia,Wheat,Production,t,277491.85
+2023,Zimbabwe,Wheat,Production,t,466000.0
+2024,Afghanistan,Wheat,Production,t,5200000.0
+2024,Albania,Wheat,Production,t,180812.2
+2024,Algeria,Wheat,Production,t,3000000.0
+2024,Angola,Wheat,Production,t,37301.0
+2024,Argentina,Wheat,Production,t,18510280.0
+2024,Armenia,Wheat,Production,t,120277.1
+2024,Australia,Wheat,Production,t,34110000.0
+2024,Austria,Wheat,Production,t,1576010.0
+2024,Azerbaijan,Wheat,Production,t,1901046.08
+2024,Bangladesh,Wheat,Production,t,1172242.0
+2024,Belarus,Wheat,Production,t,2750000.0
+2024,Belgium,Wheat,Production,t,1090040.0
+2024,Bhutan,Wheat,Production,t,838.34
+2024,Bolivia (Plurinational State of),Wheat,Production,t,292710.49
+2024,Bosnia and Herzegovina,Wheat,Production,t,279273.0
+2024,Botswana,Wheat,Production,t,1328.04
+2024,Brazil,Wheat,Production,t,7633178.0
+2024,Bulgaria,Wheat,Production,t,7085140.0
+2024,Burundi,Wheat,Production,t,8364.92
+2024,Cameroon,Wheat,Production,t,615.64
+2024,Canada,Wheat,Production,t,35938839.0
+2024,Chad,Wheat,Production,t,1353.0
+2024,Chile,Wheat,Production,t,1188784.86
+2024,China,Wheat,Production,t,140105000.0
+2024,Colombia,Wheat,Production,t,4636.0
+2024,Croatia,Wheat,Production,t,828200.0
+2024,Cyprus,Wheat,Production,t,21050.0
+2024,Czechia,Wheat,Production,t,4625370.0
+2024,Democratic People's Republic of Korea,Wheat,Production,t,90073.24
+2024,Democratic Republic of the Congo,Wheat,Production,t,9000.0
+2024,Denmark,Wheat,Production,t,3348010.0
+2024,Ecuador,Wheat,Production,t,7323.1
+2024,Egypt,Wheat,Production,t,9400000.0
+2024,Eritrea,Wheat,Production,t,25000.0
+2024,Estonia,Wheat,Production,t,744750.0
+2024,Eswatini,Wheat,Production,t,721.77
+2024,Ethiopia,Wheat,Production,t,6185341.31
+2024,Finland,Wheat,Production,t,759380.0
+2024,France,Wheat,Production,t,26606940.0
+2024,Georgia,Wheat,Production,t,149100.0
+2024,Germany,Wheat,Production,t,18526700.0
+2024,Greece,Wheat,Production,t,1209310.0
+2024,Guatemala,Wheat,Production,t,761.88
+2024,Honduras,Wheat,Production,t,1280.93
+2024,Hungary,Wheat,Production,t,5272960.0
+2024,India,Wheat,Production,t,113292368.0
+2024,Iran (Islamic Republic of),Wheat,Production,t,16750000.0
+2024,Iraq,Wheat,Production,t,5234171.0
+2024,Ireland,Wheat,Production,t,388510.0
+2024,Israel,Wheat,Production,t,90350.0
+2024,Italy,Wheat,Production,t,6213210.0
+2024,Japan,Wheat,Production,t,1029000.0
+2024,Jordan,Wheat,Production,t,34428.59
+2024,Kazakhstan,Wheat,Production,t,18576694.15
+2024,Kenya,Wheat,Production,t,312200.0
+2024,Kuwait,Wheat,Production,t,55.23
+2024,Kyrgyzstan,Wheat,Production,t,664830.0
+2024,Latvia,Wheat,Production,t,2465900.0
+2024,Lebanon,Wheat,Production,t,94000.0
+2024,Lesotho,Wheat,Production,t,4183.0
+2024,Libya,Wheat,Production,t,90000.0
+2024,Lithuania,Wheat,Production,t,4219300.0
+2024,Luxembourg,Wheat,Production,t,65860.0
+2024,Madagascar,Wheat,Production,t,1000.0
+2024,Malawi,Wheat,Production,t,320.68
+2024,Mali,Wheat,Production,t,40788.0
+2024,Malta,Wheat,Production,t,0.0
+2024,Mauritania,Wheat,Production,t,2050.8
+2024,Mexico,Wheat,Production,t,2648377.74
+2024,Mongolia,Wheat,Production,t,397258.23
+2024,Montenegro,Wheat,Production,t,1870.4
+2024,Morocco,Wheat,Production,t,2441670.47
+2024,Mozambique,Wheat,Production,t,5000.0
+2024,Myanmar,Wheat,Production,t,80000.0
+2024,Namibia,Wheat,Production,t,18328.0
+2024,Nepal,Wheat,Production,t,2035559.0
+2024,Netherlands (Kingdom of the),Wheat,Production,t,668170.0
+2024,New Caledonia,Wheat,Production,t,28.82
+2024,New Zealand,Wheat,Production,t,464602.0
+2024,Niger,Wheat,Production,t,6803.0
+2024,Nigeria,Wheat,Production,t,43926.98
+2024,North Macedonia,Wheat,Production,t,229309.0
+2024,Norway,Wheat,Production,t,230000.0
+2024,Oman,Wheat,Production,t,11740.0
+2024,Pakistan,Wheat,Production,t,31814444.0
+2024,Paraguay,Wheat,Production,t,767700.0
+2024,Peru,Wheat,Production,t,203522.44
+2024,Poland,Wheat,Production,t,12183620.0
+2024,Portugal,Wheat,Production,t,81350.0
+2024,Qatar,Wheat,Production,t,21.0
+2024,Republic of Korea,Wheat,Production,t,37376.0
+2024,Republic of Moldova,Wheat,Production,t,1194779.0
+2024,Romania,Wheat,Production,t,9290880.0
+2024,Russian Federation,Wheat,Production,t,82588000.0
+2024,Rwanda,Wheat,Production,t,16416.6
+2024,Saudi Arabia,Wheat,Production,t,820392.78
+2024,Serbia,Wheat,Production,t,2900536.06
+2024,Slovakia,Wheat,Production,t,1907940.0
+2024,Slovenia,Wheat,Production,t,153390.0
+2024,Somalia,Wheat,Production,t,1063.3
+2024,South Africa,Wheat,Production,t,1924890.0
+2024,Spain,Wheat,Production,t,7147930.0
+2024,Sudan,Wheat,Production,t,490320.0
+2024,Sweden,Wheat,Production,t,2930600.0
+2024,Switzerland,Wheat,Production,t,311807.0
+2024,Syrian Arab Republic,Wheat,Production,t,2431225.0
+2024,Tajikistan,Wheat,Production,t,880734.0
+2024,Thailand,Wheat,Production,t,1320.06
+2024,Tunisia,Wheat,Production,t,1150000.0
+2024,Turkmenistan,Wheat,Production,t,1330000.0
+2024,Türkiye,Wheat,Production,t,20800000.0
+2024,Uganda,Wheat,Production,t,25000.0
+2024,Ukraine,Wheat,Production,t,22441110.0
+2024,United Arab Emirates,Wheat,Production,t,
+2024,United Kingdom of Great Britain and Northern Ireland,Wheat,Production,t,11146000.0
+2024,United Republic of Tanzania,Wheat,Production,t,119000.0
+2024,United States of America,Wheat,Production,t,53650020.0
+2024,Uruguay,Wheat,Production,t,1295414.68
+2024,Uzbekistan,Wheat,Production,t,6729357.31
+2024,Venezuela (Bolivarian Republic of),Wheat,Production,t,1014.8
+2024,Yemen,Wheat,Production,t,98000.0
+2024,Zambia,Wheat,Production,t,198886.38
+2024,Zimbabwe,Wheat,Production,t,540000.0

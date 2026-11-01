@@ -1,0 +1,16 @@
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+# Anaconda
+anaconda_projects/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
