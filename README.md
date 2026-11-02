@@ -1,184 +1,156 @@
-# Agricultural Energy Use and Emissions Analysis
 
-## Research Question
+Global Wheat Production Analysis (2010–2024)
 
-How has energy use in agriculture and the resulting greenhouse gas emissions changed across countries and fuel types over time?
+1. Project Overview
 
-Which countries have increased agricultural energy use while reducing their emissions intensity between 2000 and 2022?
+This project explores global wheat production patterns across countries from 2010 to 2024 using data from FAOSTAT, the Food and Agriculture Organization of the United Nations.
 
-## Objective
+The analysis focuses on global production trends, leading wheat-producing countries, country-level comparisons, and changes in production rankings over time.
 
-This project aims to analyze agricultural energy use and energy-related greenhouse gas emissions across countries from 2000 to 2023.
+The project applies data cleaning, exploratory data analysis (EDA), SQL querying, and data visualization to identify meaningful patterns in global wheat production.
 
-The analysis focuses on:
+2. Research Questions
 
-- Trends in agricultural energy consumption
-- CO2, CH4, and N2O emissions
-- Changes in the composition of agricultural energy use by fuel type
-- Differences between countries and regions
-- Emissions intensity per unit of energy use
-- The relationship between increasing energy use and changes in emissions
-- Identifying countries showing signs of decoupling between energy use and emissions intensity
+* How has global wheat production changed between 2010 and 2024?
+* Which countries are the leading wheat producers?
+* How concentrated is global wheat production among the leading countries?
+* How have country production rankings changed over time?
+* Which years recorded the highest production growth and the largest decline?
 
-## Primary Data Source
+3. Dataset
 
-### FAOSTAT — Emissions from Energy Use in Agriculture (GN)
+Attribute	Description
+Source	FAOSTAT – Crops and Livestock Products
+Crop	Wheat
+Period	2010–2024
+Measurement Unit	Tonnes (t)
+Final Analytical Records	1,858
 
-The primary dataset contains agricultural energy-use and emissions data for:
+The original dataset contains country-level wheat production records reported by FAOSTAT.
 
-- 178 countries and regions
-- 2000–2023
-- 5 fuel types:
-  - Petroleum products
-  - Electricity
-  - Natural gas
-  - Heat
-  - Coal
-- 4 elements:
-  - Energy use in agriculture (TJ)
-  - CO2 emissions (kt)
-  - CH4 emissions (kt)
-  - N2O emissions (kt)
+Data Preparation
 
-The original dataset is provided in long (tidy) format, where each observation represents a country × fuel × year × element combination.
+The following preparation steps were performed:
 
-## Data Quality Considerations
+* Inspected dataset structure and data types.
+* Assessed missing values and data quality.
+* Checked duplicate records and invalid production values.
+* Standardized column names and data types.
+* Excluded overlapping China reporting subregions to avoid double-counting.
 
-Several data-quality issues must be considered before analysis.
+The final analytical dataset contains 1,858 records.
 
-### 1. Mixed measurement units
+4. Tools & Technologies
 
-Energy use is measured in TJ, while emissions are measured in kt.
+Tool	Purpose
+Python	Data analysis
+Pandas	Data cleaning and manipulation
+NumPy	Numerical operations
+Matplotlib	Data visualization
+Jupyter Notebook	Analysis environment
+SQL	Data querying and aggregation
+Google BigQuery	SQL analysis
+Tableau	Data visualization and dashboard development
+Git & GitHub	Version control and project documentation
 
-Therefore, values from different elements must not be aggregated without first separating the measurement types.
+5. Analysis Workflow
 
-### 2. Estimated and imputed observations
+1. Data collection and inspection
+2. Data quality assessment
+3. Data cleaning and preparation
+4. Exploratory Data Analysis (EDA)
+5. Global production trend analysis
+6. Country-level production analysis
+7. Production ranking comparison
+8. Key findings and insights
+9. Dashboard development
 
-The dataset contains observation-status flags indicating whether values are official, estimated, or imputed.
+6. Key Findings & Insights
 
-According to the initial data inspection:
+Global Production Growth
 
-- Emission observations are marked as estimated.
-- Energy-use observations contain a mixture of official, estimated, and imputed values.
-- The proportion of official observations decreases substantially in the most recent year.
+Global wheat production increased from approximately 653.7 million tonnes in 2010 to 798.5 million tonnes in 2024.
 
-These flags will therefore be retained throughout the analysis.
+This represents an increase of approximately 22.1% over the analyzed period.
 
-### 3. Potential carry-forward values in 2023
+Peak Production
 
-The 2023 observations require particular caution.
+* Highest production year: 2022
+* Production in 2022: approximately 808.0 million tonnes
 
-A large proportion of country–fuel combinations have exactly the same value in 2023 as in 2022, suggesting that some observations may have been carried forward or imputed.
+Annual Production Changes
 
-Therefore:
+* Highest annual growth: 2013 (+8.13%)
+* Largest annual decline: 2012 (-5.44%)
 
-- 2000–2022 will be treated as the primary analytical period.
-- 2023 will be retained for descriptive purposes but analyzed separately and clearly flagged.
+Production Concentration
 
-### 4. Geographic aggregation
+The ten leading wheat-producing countries accounted for approximately 69.73% of cumulative reported production during the analyzed period.
 
-The dataset contains both individual territories and aggregate or historical geographic entities.
+The top three producers accounted for approximately 40.19%.
 
-Examples include:
+Changes in Country Rankings
 
-- China and China, mainland
-- China, Hong Kong SAR
-- China, Taiwan Province of
-- Sudan and South Sudan
-- Historical entities such as Sudan (former)
-- Serbia and Montenegro
+Comparing country rankings in 2010 and 2024:
 
-These entities must be standardized before country-level comparisons or rankings are performed in order to avoid double counting.
+* Canada improved from 9th to 5th place.
+* Russian Federation improved from 4th to 3rd place.
+* France declined from 5th to 8th place.
+* Germany moved from 7th to 10th place.
+* Ukraine entered the top ten, reaching 9th place in 2024.
 
-### 5. Unbalanced panel structure
+7. Dashboard
 
-Not every country or region has observations for every year or every fuel type.
+The project includes visual analyses covering:
 
-Therefore, country comparisons must account for differences in:
+* Global Wheat Production Trend
+* Global Production Map
+* Top 10 Wheat-Producing Countries
+* Annual Wheat Production Trends – Top 5 Producers
+* Wheat Production Ranking: 2010 vs 2024
+* Key Ranking Changes
 
-- Time coverage
-- Fuel coverage
-- Geographic coverage
+8. Project Structure
 
-A balanced subset of countries may be created for selected longitudinal analyses.
+Global-Wheat-Production-Analysis/
+│
+├── data/
+│   ├── raw/
+│   │   └── FAOSTAT_data_en_8-24-2026-2.csv
+│   │
+│   └── processed/
+│       └── global_wheat_production_clean.csv
+│
+├── notebooks/
+│   └── Global_Wheat_Production_Analysis.ipynb
+│
+├── README.md
+└── .gitignore
 
-### 6. Zero values
+9. How to Explore the Project
 
-Some observations contain exact zero values.
+The main analysis is available in the Jupyter Notebook:
 
-These values cannot automatically be interpreted as either true zero emissions or missing information.
+notebooks/Global_Wheat_Production_Analysis.ipynb
 
-Zero values will therefore be investigated before calculating:
+The processed dataset is available in:
 
-- Growth rates
-- Ratios
-- Log transformations
-- Emissions intensity
+data/processed/global_wheat_production_clean.csv
 
-## Analytical Strategy
+The original FAOSTAT dataset is stored in:
 
-The analysis will proceed in the following stages:
+data/raw/
 
-1. Load and inspect the raw FAOSTAT dataset
-2. Validate its structure, dimensions, and data types
-3. Remove redundant columns
-4. Standardize country and geographic entities
-5. Reshape the data from long to wide format
-6. Separate energy-use and emissions variables by unit
-7. Preserve and analyze observation-status flags
-8. Evaluate panel completeness and fuel coverage
-9. Explore global and country-level trends
-10. Analyze the contribution of different fuel types
-11. Calculate emissions intensity
-12. Investigate changes in energy use versus emissions intensity
-13. Identify potential decoupling patterns
-14. Visualize the main findings
-15. Document limitations and uncertainty
+10. Data Source
 
-## Key Metrics
+Food and Agriculture Organization of the United Nations (FAO)
 
-### Energy Use
+Dataset: FAOSTAT – Crops and Livestock Products
 
-Agricultural energy consumption by country, year, and fuel type.
+⁠FAOSTAT Official Website
 
-### Emissions
+⸻
 
-CO2, CH4, and N2O emissions associated with agricultural energy use.
-
-### Emissions Intensity
-
-Emissions per unit of energy consumed:
-
-Emissions Intensity = Emissions / Energy Use
-
-This metric will help distinguish increases in total emissions caused by higher energy demand from changes in emissions intensity.
-
-### Fuel Share
-
-The contribution of each fuel type to total agricultural energy use.
-
-### Decoupling
-
-The analysis will investigate countries where agricultural energy use increased while emissions intensity decreased.
-
-These cases may indicate improvements in the emissions efficiency of agricultural energy use, although they will not automatically be interpreted as evidence of technological improvement without further investigation.
-
-## Limitations
-
-The dataset does not necessarily represent direct measurements of all emissions.
-
-Emission values and their estimation methodology must therefore be interpreted according to FAOSTAT's metadata and methodological documentation.
-
-In addition, changes in fuel coverage, imputation, geographic definitions, and data availability may affect observed trends.
-
-Therefore, unusual increases or decreases will be investigated before being interpreted as real-world changes.
-
-## Expected Outcomes
-
-The project aims to identify:
-
-- Global trends in agricultural energy use and emissions
-- The changing role of different fuel types
-- Countries with high and low emissions intensity
-- Countries showing potential decoupling between energy use and emissions intensity
-- Major data-quality and coverage limitations affecting international comparisons
+Project: Global Wheat Production Analysis
+Analysis Period: 2010–2024
+Author: Aleyna Yildiz
