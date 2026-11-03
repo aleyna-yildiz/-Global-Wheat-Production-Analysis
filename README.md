@@ -97,8 +97,9 @@ Comparing country rankings in 2010 and 2024:
 - Canada improved from 9th to 5th place.
 - Russian Federation improved from 4th to 3rd place.
 - France declined from 5th to 8th place.
-- Germany moved from 7th to 10th place.
+- Germany dropped from 7th to 12th place, falling outside the top ten.
 - Ukraine entered the top ten, reaching 9th place in 2024.
+- Türkiye maintained its 10th position in both 2010 and 2024.
 
 ## 7. Dashboard
 
