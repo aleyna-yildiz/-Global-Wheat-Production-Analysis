@@ -115,20 +115,25 @@ The project includes visual analyses covering:
 ## 8. Project Structure
 
 ```text
-Global-Wheat-Production-Analysis/
+agriculture-data-analysis/
 │
 ├── data/
 │   ├── raw/
-│   │   └── FAOSTAT_data_en_8-24-2026-2.csv
-│   │
 │   └── processed/
-│       └── global_wheat_production_clean.csv
+│       ├── global_wheat_production_clean.csv
+│       └── country_ranking_comparison.csv
 │
 ├── notebooks/
-│   └── Global_Wheat_Production_Analysis.ipynb
+│   ├── Global_Wheat_Production_Analysis.ipynb
+│   └── 01_data_exploration.ipynb
+│
+├── visualizations/
+│   └── tableau/
+│       └── Global_Wheat_Production_Dashboard.twbx
 │
 ├── README.md
 └── .gitignore
+```
 
 ## 9. How to Explore the Project
 
